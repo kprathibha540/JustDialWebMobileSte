@@ -46,7 +46,7 @@ public class ResultsPage {
 	@FindBy(xpath="//span[@class='prdname font14']")
 	private List<WebElement> hotelOptions;
 	
-	@FindBy(xpath="//span[@class='adrswp']/span")
+	@FindBy(xpath="//span[@class='movienamewrap font18']")
 	private WebElement movieTitle;
 	
 	@FindBy(xpath="//span[@class='wrpr100 prdnm fonts15']")

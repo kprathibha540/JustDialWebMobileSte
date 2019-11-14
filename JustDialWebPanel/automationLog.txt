@@ -3090,3 +3090,642 @@
 2019-11-14 16:11:95 INFO  BaseTest:95 -  Inside Post Condition 
 2019-11-14 16:11:882 INFO  BaseTest:130 -  
  After Close 
+2019-11-14 17:11:934 INFO  ResourceHelper:21 -  Inside Browser Properties 
+2019-11-14 17:11:72 INFO  BaseTest:72 -  Intialization Success 
+2019-11-14 17:11:83 INFO  ResourceHelper:40 -  Inside Intialize Input Data Method 
+2019-11-14 17:11:83 INFO  ResourceHelper:44 -  After Intializing input data method 
+2019-11-14 17:11:256 INFO  DataProviderInput:26 - 1
+2019-11-14 17:11:261 INFO  DataProviderInput:32 -       Value of Cell is ==== Housefull 4      row size 1
+2019-11-14 17:11:267 INFO  BaseTest:85 -  Browser Name =Chrome  URL =https://t.justdial.com
+2019-11-14 17:11:267 INFO  BaseTest:163 -  Inside launch browser method 
+2019-11-14 17:11:267 INFO  BaseTest:134 -  Inside getBrowserObj method   browser=Chrome
+2019-11-14 17:11:268 INFO  BaseTest:137 -  Inside Chrome switch 
+2019-11-14 17:11:33 INFO  BaseTest:165 -  Driver object value ChromeDriver: chrome on XP (0b4b9ceabf27d168851ac6f164e15d23)
+2019-11-14 17:11:34 INFO  BaseTest:166 - Initialize Webdriver...
+2019-11-14 17:11:53 INFO  BaseTest:170 -  Before Open URL =https://t.justdial.com
+2019-11-14 17:11:428 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (0b4b9ceabf27d168851ac6f164e15d23)] -> xpath: //div[@id='root']/div/div/div/header/div[@class='hdrSearchMain hdrSearchMainclr']/div/input]
+2019-11-14 17:11:438 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (0b4b9ceabf27d168851ac6f164e15d23)] -> xpath: //div[@id='root']/div/div/div/header/div[@class='hdrSearchMain hdrSearchMainclr']/div/input] for 30 seconds.
+2019-11-14 17:11:506 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 17:11:554 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (0b4b9ceabf27d168851ac6f164e15d23)] -> xpath: //div[@id='root']/div/div/div/header/div[@class='hdrSearchMain hdrSearchMainclr']/div/input]
+2019-11-14 17:11:564 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (0b4b9ceabf27d168851ac6f164e15d23)] -> xpath: //div[@id='root']/div/div/div/header/div[@class='hdrSearchMain hdrSearchMainclr']/div/input] for 10 seconds.
+2019-11-14 17:11:616 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 17:11:234 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (0b4b9ceabf27d168851ac6f164e15d23)] -> xpath: //span[@class='adrswp']/span]
+2019-11-14 17:11:250 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (0b4b9ceabf27d168851ac6f164e15d23)] -> xpath: //span[@class='adrswp']/span] for 10 seconds.
+2019-11-14 17:11:279 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 17:11:305 INFO  CommonBasePage:179 -   Verification not done  Actual data  is =Housefull 2019 Film Hindi Movie Near Me But expected is Housefull 4
+2019-11-14 17:11:309 INFO  BaseTest:95 -  Inside Post Condition 
+2019-11-14 17:11:310 INFO  BaseTest:101 - failed method movieFreeTextSearchCheckList29
+2019-11-14 17:11:916 INFO  BaseTest:130 -  
+ After Close 
+2019-11-14 17:11:538 INFO  ResourceHelper:21 -  Inside Browser Properties 
+2019-11-14 17:11:671 INFO  BaseTest:72 -  Intialization Success 
+2019-11-14 17:11:682 INFO  ResourceHelper:40 -  Inside Intialize Input Data Method 
+2019-11-14 17:11:682 INFO  ResourceHelper:44 -  After Intializing input data method 
+2019-11-14 17:11:852 INFO  DataProviderInput:26 - 1
+2019-11-14 17:11:857 INFO  DataProviderInput:32 -       Value of Cell is ==== Housefull 4      row size 1
+2019-11-14 17:11:863 INFO  BaseTest:85 -  Browser Name =Chrome  URL =https://t.justdial.com
+2019-11-14 17:11:863 INFO  BaseTest:163 -  Inside launch browser method 
+2019-11-14 17:11:863 INFO  BaseTest:134 -  Inside getBrowserObj method   browser=Chrome
+2019-11-14 17:11:864 INFO  BaseTest:137 -  Inside Chrome switch 
+2019-11-14 17:11:535 INFO  BaseTest:165 -  Driver object value ChromeDriver: chrome on XP (1900e768190d745b10a233f567229b32)
+2019-11-14 17:11:535 INFO  BaseTest:166 - Initialize Webdriver...
+2019-11-14 17:11:551 INFO  BaseTest:170 -  Before Open URL =https://t.justdial.com
+2019-11-14 17:11:284 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (1900e768190d745b10a233f567229b32)] -> xpath: //div[@id='root']/div/div/div/header/div[@class='hdrSearchMain hdrSearchMainclr']/div/input]
+2019-11-14 17:11:296 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (1900e768190d745b10a233f567229b32)] -> xpath: //div[@id='root']/div/div/div/header/div[@class='hdrSearchMain hdrSearchMainclr']/div/input] for 30 seconds.
+2019-11-14 17:11:364 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 17:11:426 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (1900e768190d745b10a233f567229b32)] -> xpath: //div[@id='root']/div/div/div/header/div[@class='hdrSearchMain hdrSearchMainclr']/div/input]
+2019-11-14 17:11:438 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (1900e768190d745b10a233f567229b32)] -> xpath: //div[@id='root']/div/div/div/header/div[@class='hdrSearchMain hdrSearchMainclr']/div/input] for 10 seconds.
+2019-11-14 17:11:490 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 17:11:999 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (1900e768190d745b10a233f567229b32)] -> xpath: //span[@class='movienamewrap font18']]
+2019-11-14 17:11:15 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (1900e768190d745b10a233f567229b32)] -> xpath: //span[@class='movienamewrap font18']] for 10 seconds.
+2019-11-14 17:11:46 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 17:11:69 INFO  CommonBasePage:175 -  Verification done actual vs expected Housefull 4 (Hindi Movie) (U/A)
+2019-11-14 17:11:71 INFO  BaseTest:95 -  Inside Post Condition 
+2019-11-14 17:11:297 INFO  BaseTest:130 -  
+ After Close 
+2019-11-14 17:11:330 INFO  ResourceHelper:21 -  Inside Browser Properties 
+2019-11-14 17:11:459 INFO  BaseTest:72 -  Intialization Success 
+2019-11-14 17:11:470 INFO  ResourceHelper:40 -  Inside Intialize Input Data Method 
+2019-11-14 17:11:471 INFO  ResourceHelper:44 -  After Intializing input data method 
+2019-11-14 17:11:645 INFO  DataProviderInput:26 - 1
+2019-11-14 17:11:650 INFO  DataProviderInput:32 -       Value of Cell is ==== Housefull 4|Hebbal      row size 1
+2019-11-14 17:11:656 INFO  BaseTest:85 -  Browser Name =Chrome  URL =https://t.justdial.com
+2019-11-14 17:11:656 INFO  BaseTest:163 -  Inside launch browser method 
+2019-11-14 17:11:657 INFO  BaseTest:134 -  Inside getBrowserObj method   browser=Chrome
+2019-11-14 17:11:657 INFO  BaseTest:137 -  Inside Chrome switch 
+2019-11-14 17:11:377 INFO  BaseTest:165 -  Driver object value ChromeDriver: chrome on XP (d7c37cafa3750495d7bd81212fdb71b2)
+2019-11-14 17:11:377 INFO  BaseTest:166 - Initialize Webdriver...
+2019-11-14 17:11:396 INFO  BaseTest:170 -  Before Open URL =https://t.justdial.com
+2019-11-14 17:11:340 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (d7c37cafa3750495d7bd81212fdb71b2)] -> xpath: //div[@id='root']/div/div/div/header/div[@class='hdrSearchMain hdrSearchMainclr']/div/input]
+2019-11-14 17:11:349 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (d7c37cafa3750495d7bd81212fdb71b2)] -> xpath: //div[@id='root']/div/div/div/header/div[@class='hdrSearchMain hdrSearchMainclr']/div/input] for 30 seconds.
+2019-11-14 17:11:416 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 17:11:484 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (d7c37cafa3750495d7bd81212fdb71b2)] -> xpath: //div[@id='root']/div/div/div/header/div[@class='hdrSearchMain hdrSearchMainclr']/div/input]
+2019-11-14 17:11:501 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (d7c37cafa3750495d7bd81212fdb71b2)] -> xpath: //div[@id='root']/div/div/div/header/div[@class='hdrSearchMain hdrSearchMainclr']/div/input] for 10 seconds.
+2019-11-14 17:11:592 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 17:11:157 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (d7c37cafa3750495d7bd81212fdb71b2)] -> xpath: //span[@class='movienamewrap font18']]
+2019-11-14 17:11:168 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (d7c37cafa3750495d7bd81212fdb71b2)] -> xpath: //span[@class='movienamewrap font18']] for 10 seconds.
+2019-11-14 17:11:198 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 17:11:221 INFO  CommonBasePage:175 -  Verification done actual vs expected Housefull 4 (Hindi Movie) (U/A)
+2019-11-14 17:11:223 INFO  BaseTest:95 -  Inside Post Condition 
+2019-11-14 17:11:320 INFO  BaseTest:130 -  
+ After Close 
+2019-11-14 17:11:210 INFO  ResourceHelper:21 -  Inside Browser Properties 
+2019-11-14 17:11:340 INFO  BaseTest:72 -  Intialization Success 
+2019-11-14 17:11:351 INFO  ResourceHelper:40 -  Inside Intialize Input Data Method 
+2019-11-14 17:11:352 INFO  ResourceHelper:44 -  After Intializing input data method 
+2019-11-14 17:11:535 INFO  DataProviderInput:26 - 1
+2019-11-14 17:11:539 INFO  DataProviderInput:32 -       Value of Cell is ==== Bangalore      row size 1
+2019-11-14 17:11:546 INFO  BaseTest:85 -  Browser Name =Chrome  URL =https://t.justdial.com
+2019-11-14 17:11:546 INFO  BaseTest:163 -  Inside launch browser method 
+2019-11-14 17:11:546 INFO  BaseTest:134 -  Inside getBrowserObj method   browser=Chrome
+2019-11-14 17:11:546 INFO  BaseTest:137 -  Inside Chrome switch 
+2019-11-14 17:11:229 INFO  BaseTest:165 -  Driver object value ChromeDriver: chrome on XP (8cf9f1dc94cd1cd1822fcdd2a0ed74eb)
+2019-11-14 17:11:229 INFO  BaseTest:166 - Initialize Webdriver...
+2019-11-14 17:11:247 INFO  BaseTest:170 -  Before Open URL =https://t.justdial.com
+2019-11-14 17:11:573 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (8cf9f1dc94cd1cd1822fcdd2a0ed74eb)] -> xpath: //div[@id='root']/div/div/div/header/div[@class='hdrSearchMain hdrSearchMainclr']/div/input]
+2019-11-14 17:11:582 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (8cf9f1dc94cd1cd1822fcdd2a0ed74eb)] -> xpath: //div[@id='root']/div/div/div/header/div[@class='hdrSearchMain hdrSearchMainclr']/div/input] for 30 seconds.
+2019-11-14 17:11:646 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 17:11:709 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (8cf9f1dc94cd1cd1822fcdd2a0ed74eb)] -> xpath: //div[@id='root']/div/div/div/header/div[@class='hdrSearchMain hdrSearchMainclr']/div/input]
+2019-11-14 17:11:722 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (8cf9f1dc94cd1cd1822fcdd2a0ed74eb)] -> xpath: //div[@id='root']/div/div/div/header/div[@class='hdrSearchMain hdrSearchMainclr']/div/input] for 10 seconds.
+2019-11-14 17:11:787 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 17:11:960 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (8cf9f1dc94cd1cd1822fcdd2a0ed74eb)] -> xpath: //div[@id='middle_btn']/span[@class='hdrdropdown transform11']]
+2019-11-14 17:11:969 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (8cf9f1dc94cd1cd1822fcdd2a0ed74eb)] -> xpath: //div[@id='middle_btn']/span[@class='hdrdropdown transform11']] for 30 seconds.
+2019-11-14 17:11:994 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 17:11:50 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (8cf9f1dc94cd1cd1822fcdd2a0ed74eb)] -> xpath: //div[@id='middle_btn']/span[@class='hdrdropdown transform11']]
+2019-11-14 17:11:66 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (8cf9f1dc94cd1cd1822fcdd2a0ed74eb)] -> xpath: //div[@id='middle_btn']/span[@class='hdrdropdown transform11']] for 10 seconds.
+2019-11-14 17:11:124 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 17:11:418 INFO  CommonBasePage:196 -  Element ************************* =Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='middle_btn']/span[2]'
+2019-11-14 17:11:481 INFO  CommonBasePage:197 - Waiting for Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='middle_btn']/span[2]' for 10 seconds.
+2019-11-14 17:11:628 INFO  BaseTest:95 -  Inside Post Condition 
+2019-11-14 17:11:628 INFO  BaseTest:101 - failed method defaultCitySuggestCheckList51
+2019-11-14 17:11:685 INFO  BaseTest:130 -  
+ After Close 
+2019-11-14 17:11:53 INFO  ResourceHelper:21 -  Inside Browser Properties 
+2019-11-14 17:11:191 INFO  BaseTest:72 -  Intialization Success 
+2019-11-14 17:11:201 INFO  ResourceHelper:40 -  Inside Intialize Input Data Method 
+2019-11-14 17:11:202 INFO  ResourceHelper:44 -  After Intializing input data method 
+2019-11-14 17:11:396 INFO  DataProviderInput:26 - 1
+2019-11-14 17:11:401 INFO  DataProviderInput:32 -       Value of Cell is ==== Bangalore      row size 1
+2019-11-14 17:11:407 INFO  BaseTest:85 -  Browser Name =Chrome  URL =https://t.justdial.com
+2019-11-14 17:11:408 INFO  BaseTest:163 -  Inside launch browser method 
+2019-11-14 17:11:408 INFO  BaseTest:134 -  Inside getBrowserObj method   browser=Chrome
+2019-11-14 17:11:408 INFO  BaseTest:137 -  Inside Chrome switch 
+2019-11-14 17:11:50 INFO  BaseTest:165 -  Driver object value ChromeDriver: chrome on XP (6df1dfc9ba5c66ae95ff9ba5bacd791f)
+2019-11-14 17:11:50 INFO  BaseTest:166 - Initialize Webdriver...
+2019-11-14 17:11:78 INFO  BaseTest:170 -  Before Open URL =https://t.justdial.com
+2019-11-14 17:11:918 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (6df1dfc9ba5c66ae95ff9ba5bacd791f)] -> xpath: //div[@id='root']/div/div/div/header/div[@class='hdrSearchMain hdrSearchMainclr']/div/input]
+2019-11-14 17:11:928 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (6df1dfc9ba5c66ae95ff9ba5bacd791f)] -> xpath: //div[@id='root']/div/div/div/header/div[@class='hdrSearchMain hdrSearchMainclr']/div/input] for 30 seconds.
+2019-11-14 17:11:993 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 17:11:79 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (6df1dfc9ba5c66ae95ff9ba5bacd791f)] -> xpath: //div[@id='root']/div/div/div/header/div[@class='hdrSearchMain hdrSearchMainclr']/div/input]
+2019-11-14 17:11:92 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (6df1dfc9ba5c66ae95ff9ba5bacd791f)] -> xpath: //div[@id='root']/div/div/div/header/div[@class='hdrSearchMain hdrSearchMainclr']/div/input] for 10 seconds.
+2019-11-14 17:11:212 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 17:11:367 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (6df1dfc9ba5c66ae95ff9ba5bacd791f)] -> xpath: //div[@id='middle_btn']/span[@class='hdrdropdown transform11']]
+2019-11-14 17:11:376 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (6df1dfc9ba5c66ae95ff9ba5bacd791f)] -> xpath: //div[@id='middle_btn']/span[@class='hdrdropdown transform11']] for 30 seconds.
+2019-11-14 17:11:403 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 17:11:457 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (6df1dfc9ba5c66ae95ff9ba5bacd791f)] -> xpath: //div[@id='middle_btn']/span[@class='hdrdropdown transform11']]
+2019-11-14 17:11:466 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (6df1dfc9ba5c66ae95ff9ba5bacd791f)] -> xpath: //div[@id='middle_btn']/span[@class='hdrdropdown transform11']] for 10 seconds.
+2019-11-14 17:11:510 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 17:11:739 INFO  CommonBasePage:196 -  Element ************************* =Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='adrswp']/span'
+2019-11-14 17:11:788 INFO  CommonBasePage:197 - Waiting for Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='adrswp']/span' for 10 seconds.
+2019-11-14 17:11:906 INFO  BaseTest:95 -  Inside Post Condition 
+2019-11-14 17:11:907 INFO  BaseTest:101 - failed method defaultCitySuggestCheckList51
+2019-11-14 17:11:760 INFO  BaseTest:130 -  
+ After Close 
+2019-11-14 18:11:84 INFO  ResourceHelper:21 -  Inside Browser Properties 
+2019-11-14 18:11:247 INFO  BaseTest:72 -  Intialization Success 
+2019-11-14 18:11:257 INFO  ResourceHelper:40 -  Inside Intialize Input Data Method 
+2019-11-14 18:11:258 INFO  ResourceHelper:44 -  After Intializing input data method 
+2019-11-14 18:11:478 INFO  DataProviderInput:26 - 1
+2019-11-14 18:11:483 INFO  DataProviderInput:32 -       Value of Cell is ==== Bangalore      row size 1
+2019-11-14 18:11:489 INFO  BaseTest:85 -  Browser Name =Chrome  URL =https://t.justdial.com
+2019-11-14 18:11:490 INFO  BaseTest:163 -  Inside launch browser method 
+2019-11-14 18:11:490 INFO  BaseTest:134 -  Inside getBrowserObj method   browser=Chrome
+2019-11-14 18:11:490 INFO  BaseTest:137 -  Inside Chrome switch 
+2019-11-14 18:11:159 INFO  BaseTest:165 -  Driver object value ChromeDriver: chrome on XP (fe5e55a432024b6f880116188272641a)
+2019-11-14 18:11:160 INFO  BaseTest:166 - Initialize Webdriver...
+2019-11-14 18:11:200 INFO  BaseTest:170 -  Before Open URL =https://t.justdial.com
+2019-11-14 18:11:370 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (fe5e55a432024b6f880116188272641a)] -> xpath: //div[@id='root']/div/div/div/header/div[@class='hdrSearchMain hdrSearchMainclr']/div/input]
+2019-11-14 18:11:382 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (fe5e55a432024b6f880116188272641a)] -> xpath: //div[@id='root']/div/div/div/header/div[@class='hdrSearchMain hdrSearchMainclr']/div/input] for 30 seconds.
+2019-11-14 18:11:623 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 18:11:695 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (fe5e55a432024b6f880116188272641a)] -> xpath: //div[@id='root']/div/div/div/header/div[@class='hdrSearchMain hdrSearchMainclr']/div/input]
+2019-11-14 18:11:707 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (fe5e55a432024b6f880116188272641a)] -> xpath: //div[@id='root']/div/div/div/header/div[@class='hdrSearchMain hdrSearchMainclr']/div/input] for 10 seconds.
+2019-11-14 18:11:760 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 18:11:932 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (fe5e55a432024b6f880116188272641a)] -> xpath: //div[@id='middle_btn']/span[@class='hdrdropdown transform11']]
+2019-11-14 18:11:942 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (fe5e55a432024b6f880116188272641a)] -> xpath: //div[@id='middle_btn']/span[@class='hdrdropdown transform11']] for 30 seconds.
+2019-11-14 18:11:973 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 18:11:11 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (fe5e55a432024b6f880116188272641a)] -> xpath: //div[@id='middle_btn']/span[@class='hdrdropdown transform11']]
+2019-11-14 18:11:19 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (fe5e55a432024b6f880116188272641a)] -> xpath: //div[@id='middle_btn']/span[@class='hdrdropdown transform11']] for 10 seconds.
+2019-11-14 18:11:56 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 18:11:378 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (fe5e55a432024b6f880116188272641a)] -> xpath: //ul[@class='lctname']/div/li/span[@class='lctnarea font15']]
+2019-11-14 18:11:394 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (fe5e55a432024b6f880116188272641a)] -> xpath: //ul[@class='lctname']/div/li/span[@class='lctnarea font15']] for 10 seconds.
+2019-11-14 18:11:449 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 18:11:494 INFO  CityChangePage:62 -  Detected City/Loc =Bangalore  Matched with Given City  =Bangalore
+2019-11-14 18:11:497 INFO  BaseTest:95 -  Inside Post Condition 
+2019-11-14 18:11:979 INFO  BaseTest:130 -  
+ After Close 
+2019-11-14 18:11:393 INFO  ResourceHelper:21 -  Inside Browser Properties 
+2019-11-14 18:11:537 INFO  BaseTest:72 -  Intialization Success 
+2019-11-14 18:11:548 INFO  ResourceHelper:40 -  Inside Intialize Input Data Method 
+2019-11-14 18:11:548 INFO  ResourceHelper:44 -  After Intializing input data method 
+2019-11-14 18:11:737 INFO  DataProviderInput:26 - 1
+2019-11-14 18:11:743 INFO  DataProviderInput:32 -       Value of Cell is ==== Dell|Laptops      row size 1
+2019-11-14 18:11:749 INFO  BaseTest:85 -  Browser Name =Chrome  URL =https://t.justdial.com
+2019-11-14 18:11:750 INFO  BaseTest:163 -  Inside launch browser method 
+2019-11-14 18:11:750 INFO  BaseTest:134 -  Inside getBrowserObj method   browser=Chrome
+2019-11-14 18:11:750 INFO  BaseTest:137 -  Inside Chrome switch 
+2019-11-14 18:11:683 INFO  BaseTest:165 -  Driver object value ChromeDriver: chrome on XP (29f7624ab5f23eab8f41efef31b1bd28)
+2019-11-14 18:11:684 INFO  BaseTest:166 - Initialize Webdriver...
+2019-11-14 18:11:770 INFO  BaseTest:170 -  Before Open URL =https://t.justdial.com
+2019-11-14 18:11:894 INFO  BaseTest:244 -  ---------------------------------------------**********------------------
+2019-11-14 18:11:959 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (29f7624ab5f23eab8f41efef31b1bd28)] -> xpath: //span[text()='More']]
+2019-11-14 18:11:970 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (29f7624ab5f23eab8f41efef31b1bd28)] -> xpath: //span[text()='More']] for 30 seconds.
+2019-11-14 18:11:46 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 18:11:97 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (29f7624ab5f23eab8f41efef31b1bd28)] -> xpath: //span[text()='More']]
+2019-11-14 18:11:107 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (29f7624ab5f23eab8f41efef31b1bd28)] -> xpath: //span[text()='More']] for 10 seconds.
+2019-11-14 18:11:158 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 18:11:394 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (29f7624ab5f23eab8f41efef31b1bd28)] -> xpath: //span[text()='Shopping']]
+2019-11-14 18:11:406 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (29f7624ab5f23eab8f41efef31b1bd28)] -> xpath: //span[text()='Shopping']] for 30 seconds.
+2019-11-14 18:11:441 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 18:11:497 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (29f7624ab5f23eab8f41efef31b1bd28)] -> xpath: //span[text()='Shopping']]
+2019-11-14 18:11:509 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (29f7624ab5f23eab8f41efef31b1bd28)] -> xpath: //span[text()='Shopping']] for 10 seconds.
+2019-11-14 18:11:558 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 18:11:694 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (29f7624ab5f23eab8f41efef31b1bd28)] -> id: hdrinputotr]
+2019-11-14 18:11:703 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (29f7624ab5f23eab8f41efef31b1bd28)] -> id: hdrinputotr] for 30 seconds.
+2019-11-14 18:11:731 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 18:11:776 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (29f7624ab5f23eab8f41efef31b1bd28)] -> id: hdrinputotr]
+2019-11-14 18:11:784 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (29f7624ab5f23eab8f41efef31b1bd28)] -> id: hdrinputotr] for 10 seconds.
+2019-11-14 18:11:824 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 18:11:766 INFO  ResultsPage:161 -  Category Result Dell Inspiron 3567 15.6-inch Laptop (6th i3- 6006U/4GB/1TB/Windows 10/Integrated Graphics), Black
+2019-11-14 18:11:820 INFO  ResultsPage:161 -  Category Result Dell Inspiron 5570 15.6-inch FHD Laptop (8th Gen i5-8250U/8GB/2TB/Windows 10 with Ms Office Home & Student 2016/2GB Graphics), Black
+2019-11-14 18:11:855 INFO  ResultsPage:161 -  Category Result DELL 3565 15.6-inch Laptop (7th Gen E2-9000/4GB/1TB/Windows 10/Integrated Graphics), Black
+2019-11-14 18:11:890 INFO  ResultsPage:161 -  Category Result Dell Vostro 15 3000 Core i3 6th Gen - (4 GB/1 TB HDD/Linux) 3568 Laptop(15.6 inch, Black, 2.18 kg)
+2019-11-14 18:11:924 INFO  ResultsPage:161 -  Category Result Dell Inspiron 3552 (Celeron Dual Core N3060/4 GB/500 GB HDD/15.6 /Ubuntu/Integrated Graphics) (Black)
+2019-11-14 18:11:957 INFO  ResultsPage:161 -  Category Result Dell Vostro 14 3000 Core i5 8th Gen - (4 GB/1 TB HDD/Linux/2 GB Graphics) 3478 Laptop(14 inch, Black, 1.76 kg)
+2019-11-14 18:11:990 INFO  ResultsPage:161 -  Category Result Dell Inspiron 15 7000 Core i7 7th Gen - (8 GB/1 TB HDD/128 GB SSD/Windows 10 Home/4 GB Graphics) 7567 Gaming Laptop(15.6 inch, Matt Black, 2.62 kg, With MS Office)
+2019-11-14 18:11:23 INFO  ResultsPage:161 -  Category Result Dell Inspiron Core i3 6th Gen - (4 GB/1 TB HDD/Linux) 3467 Laptop(14 inch, Black, 1.956 kg)
+2019-11-14 18:11:84 INFO  ResultsPage:161 -  Category Result Dell Inspiron 13 5000 Core i3 7th Gen - (4 GB/128 GB SSD/Windows 10 Home) 5370 Thin and Light Laptop(13 inch, Silver, 1.4 kg, With MS Office)
+2019-11-14 18:11:118 INFO  ResultsPage:161 -  Category Result Dell Inspiron 3567 Intel Core i3 7th Gen 15.6- FHD Laptop (4GB/1TB HDD/Windows 10 Home/MS Office/Black/2.5kg)
+2019-11-14 18:11:130 INFO  BaseTest:95 -  Inside Post Condition 
+2019-11-14 18:11:98 INFO  BaseTest:130 -  
+ After Close 
+2019-11-14 19:11:240 INFO  ResourceHelper:21 -  Inside Browser Properties 
+2019-11-14 19:11:469 INFO  BaseTest:73 -  Intialization Success 
+2019-11-14 19:11:500 INFO  ResourceHelper:40 -  Inside Intialize Input Data Method 
+2019-11-14 19:11:501 INFO  ResourceHelper:44 -  After Intializing input data method 
+2019-11-14 19:11:792 INFO  DataProviderInput:26 - 1
+2019-11-14 19:11:798 INFO  DataProviderInput:32 -       Value of Cell is ==== Dell|Laptops      row size 1
+2019-11-14 19:11:815 INFO  BaseTest:87 -  Browser Name =Chrome  URL =https://t.justdial.com
+2019-11-14 19:11:815 INFO  BaseTest:165 -  Inside launch browser method 
+2019-11-14 19:11:816 INFO  BaseTest:136 -  Inside getBrowserObj method   browser=Chrome
+2019-11-14 19:11:816 INFO  BaseTest:139 -  Inside Chrome switch 
+2019-11-14 19:11:976 INFO  BaseTest:167 -  Driver object value ChromeDriver: chrome on XP (f9c29b92decd5220178f91636aded419)
+2019-11-14 19:11:977 INFO  BaseTest:168 - Initialize Webdriver...
+2019-11-14 19:11:73 INFO  BaseTest:172 -  Before Open URL =https://t.justdial.com
+2019-11-14 19:11:380 INFO  BaseTest:244 -  ---------------------------------------------**********------------------
+2019-11-14 19:11:641 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (f9c29b92decd5220178f91636aded419)] -> xpath: //span[text()='More']]
+2019-11-14 19:11:661 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (f9c29b92decd5220178f91636aded419)] -> xpath: //span[text()='More']] for 30 seconds.
+2019-11-14 19:11:805 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 19:11:879 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (f9c29b92decd5220178f91636aded419)] -> xpath: //span[text()='More']]
+2019-11-14 19:11:894 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (f9c29b92decd5220178f91636aded419)] -> xpath: //span[text()='More']] for 10 seconds.
+2019-11-14 19:11:144 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 19:11:563 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (f9c29b92decd5220178f91636aded419)] -> xpath: //span[text()='Shopping']]
+2019-11-14 19:11:575 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (f9c29b92decd5220178f91636aded419)] -> xpath: //span[text()='Shopping']] for 30 seconds.
+2019-11-14 19:11:604 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 19:11:662 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (f9c29b92decd5220178f91636aded419)] -> xpath: //span[text()='Shopping']]
+2019-11-14 19:11:678 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (f9c29b92decd5220178f91636aded419)] -> xpath: //span[text()='Shopping']] for 10 seconds.
+2019-11-14 19:11:748 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 19:11:924 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (f9c29b92decd5220178f91636aded419)] -> id: hdrinputotr]
+2019-11-14 19:11:940 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (f9c29b92decd5220178f91636aded419)] -> id: hdrinputotr] for 30 seconds.
+2019-11-14 19:11:987 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 19:11:31 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (f9c29b92decd5220178f91636aded419)] -> id: hdrinputotr]
+2019-11-14 19:11:39 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (f9c29b92decd5220178f91636aded419)] -> id: hdrinputotr] for 10 seconds.
+2019-11-14 19:11:76 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 19:11:417 INFO  ResultsPage:161 -  Category Result Dell Inspiron 3567 15.6-inch Laptop (6th i3- 6006U/4GB/1TB/Windows 10/Integrated Graphics), Black
+2019-11-14 19:11:453 INFO  ResultsPage:161 -  Category Result Dell Inspiron 5570 15.6-inch FHD Laptop (8th Gen i5-8250U/8GB/2TB/Windows 10 with Ms Office Home & Student 2016/2GB Graphics), Black
+2019-11-14 19:11:487 INFO  ResultsPage:161 -  Category Result DELL 3565 15.6-inch Laptop (7th Gen E2-9000/4GB/1TB/Windows 10/Integrated Graphics), Black
+2019-11-14 19:11:521 INFO  ResultsPage:161 -  Category Result Dell Vostro 15 3000 Core i3 6th Gen - (4 GB/1 TB HDD/Linux) 3568 Laptop(15.6 inch, Black, 2.18 kg)
+2019-11-14 19:11:572 INFO  ResultsPage:161 -  Category Result Dell Inspiron 3552 (Celeron Dual Core N3060/4 GB/500 GB HDD/15.6 /Ubuntu/Integrated Graphics) (Black)
+2019-11-14 19:11:606 INFO  ResultsPage:161 -  Category Result Dell Vostro 14 3000 Core i5 8th Gen - (4 GB/1 TB HDD/Linux/2 GB Graphics) 3478 Laptop(14 inch, Black, 1.76 kg)
+2019-11-14 19:11:640 INFO  ResultsPage:161 -  Category Result Dell Inspiron 15 7000 Core i7 7th Gen - (8 GB/1 TB HDD/128 GB SSD/Windows 10 Home/4 GB Graphics) 7567 Gaming Laptop(15.6 inch, Matt Black, 2.62 kg, With MS Office)
+2019-11-14 19:11:674 INFO  ResultsPage:161 -  Category Result Dell Inspiron Core i3 6th Gen - (4 GB/1 TB HDD/Linux) 3467 Laptop(14 inch, Black, 1.956 kg)
+2019-11-14 19:11:709 INFO  ResultsPage:161 -  Category Result Dell Inspiron 13 5000 Core i3 7th Gen - (4 GB/128 GB SSD/Windows 10 Home) 5370 Thin and Light Laptop(13 inch, Silver, 1.4 kg, With MS Office)
+2019-11-14 19:11:744 INFO  ResultsPage:161 -  Category Result Dell Inspiron 3567 Intel Core i3 7th Gen 15.6- FHD Laptop (4GB/1TB HDD/Windows 10 Home/MS Office/Black/2.5kg)
+2019-11-14 19:11:756 INFO  BaseTest:97 -  Inside Post Condition 
+2019-11-14 19:11:808 INFO  BaseTest:132 -  
+ After Close 
+2019-11-14 19:11:08 INFO  ResourceHelper:21 -  Inside Browser Properties 
+2019-11-14 19:11:08 INFO  ResourceHelper:21 -  Inside Browser Properties 
+2019-11-14 19:11:08 INFO  ResourceHelper:21 -  Inside Browser Properties 
+2019-11-14 19:11:08 INFO  ResourceHelper:21 -  Inside Browser Properties 
+2019-11-14 19:11:188 INFO  BaseTest:73 -  Intialization Success 
+2019-11-14 19:11:188 INFO  BaseTest:73 -  Intialization Success 
+2019-11-14 19:11:188 INFO  BaseTest:73 -  Intialization Success 
+2019-11-14 19:11:188 INFO  BaseTest:73 -  Intialization Success 
+2019-11-14 19:11:203 INFO  ResourceHelper:40 -  Inside Intialize Input Data Method 
+2019-11-14 19:11:202 INFO  ResourceHelper:40 -  Inside Intialize Input Data Method 
+2019-11-14 19:11:201 INFO  ResourceHelper:40 -  Inside Intialize Input Data Method 
+2019-11-14 19:11:205 INFO  ResourceHelper:44 -  After Intializing input data method 
+2019-11-14 19:11:204 INFO  ResourceHelper:44 -  After Intializing input data method 
+2019-11-14 19:11:204 INFO  ResourceHelper:40 -  Inside Intialize Input Data Method 
+2019-11-14 19:11:205 INFO  ResourceHelper:44 -  After Intializing input data method 
+2019-11-14 19:11:206 INFO  ResourceHelper:44 -  After Intializing input data method 
+2019-11-14 19:11:411 INFO  DataProviderInput:26 - 1
+2019-11-14 19:11:411 INFO  DataProviderInput:26 - 1
+2019-11-14 19:11:411 INFO  DataProviderInput:26 - 1
+2019-11-14 19:11:411 INFO  DataProviderInput:26 - 1
+2019-11-14 19:11:433 INFO  DataProviderInput:32 -       Value of Cell is ==== Dell|Laptops      row size 1
+2019-11-14 19:11:433 INFO  DataProviderInput:32 -       Value of Cell is ==== Dell|Laptops      row size 1
+2019-11-14 19:11:434 INFO  DataProviderInput:32 -       Value of Cell is ==== Dell|Laptops      row size 1
+2019-11-14 19:11:436 INFO  DataProviderInput:32 -       Value of Cell is ==== Dell|Laptops      row size 1
+2019-11-14 19:11:443 INFO  BaseTest:87 -  Browser Name =Chrome  URL =https://t.justdial.com
+2019-11-14 19:11:443 INFO  BaseTest:87 -  Browser Name =Chrome  URL =https://t.justdial.com
+2019-11-14 19:11:443 INFO  BaseTest:87 -  Browser Name =Chrome  URL =https://t.justdial.com
+2019-11-14 19:11:443 INFO  BaseTest:87 -  Browser Name =Chrome  URL =https://t.justdial.com
+2019-11-14 19:11:444 INFO  BaseTest:165 -  Inside launch browser method 
+2019-11-14 19:11:444 INFO  BaseTest:165 -  Inside launch browser method 
+2019-11-14 19:11:444 INFO  BaseTest:165 -  Inside launch browser method 
+2019-11-14 19:11:445 INFO  BaseTest:136 -  Inside getBrowserObj method   browser=Chrome
+2019-11-14 19:11:445 INFO  BaseTest:136 -  Inside getBrowserObj method   browser=Chrome
+2019-11-14 19:11:444 INFO  BaseTest:165 -  Inside launch browser method 
+2019-11-14 19:11:446 INFO  BaseTest:139 -  Inside Chrome switch 
+2019-11-14 19:11:445 INFO  BaseTest:139 -  Inside Chrome switch 
+2019-11-14 19:11:445 INFO  BaseTest:136 -  Inside getBrowserObj method   browser=Chrome
+2019-11-14 19:11:446 INFO  BaseTest:136 -  Inside getBrowserObj method   browser=Chrome
+2019-11-14 19:11:447 INFO  BaseTest:139 -  Inside Chrome switch 
+2019-11-14 19:11:447 INFO  BaseTest:139 -  Inside Chrome switch 
+2019-11-14 19:11:468 INFO  BaseTest:167 -  Driver object value ChromeDriver: chrome on XP (ad0382ba1f830f323f951c8ea4a84a05)
+2019-11-14 19:11:469 INFO  BaseTest:168 - Initialize Webdriver...
+2019-11-14 19:11:501 INFO  BaseTest:167 -  Driver object value ChromeDriver: chrome on XP (b8b36cc2f6f4176bf0f0eafa722e366b)
+2019-11-14 19:11:501 INFO  BaseTest:168 - Initialize Webdriver...
+2019-11-14 19:11:502 INFO  BaseTest:172 -  Before Open URL =https://t.justdial.com
+2019-11-14 19:11:546 INFO  BaseTest:172 -  Before Open URL =https://t.justdial.com
+2019-11-14 19:11:915 INFO  BaseTest:167 -  Driver object value ChromeDriver: chrome on XP (32b86d4b155a0bea12595ccfcb460de0)
+2019-11-14 19:11:915 INFO  BaseTest:168 - Initialize Webdriver...
+2019-11-14 19:11:317 INFO  BaseTest:167 -  Driver object value ChromeDriver: chrome on XP (2e2bc194580c72ae78f75f79f442dd7a)
+2019-11-14 19:11:317 INFO  BaseTest:168 - Initialize Webdriver...
+2019-11-14 19:11:936 INFO  BaseTest:172 -  Before Open URL =https://t.justdial.com
+2019-11-14 19:11:333 INFO  BaseTest:172 -  Before Open URL =https://t.justdial.com
+2019-11-14 19:11:319 INFO  ResourceHelper:21 -  Inside Browser Properties 
+2019-11-14 19:11:319 INFO  ResourceHelper:21 -  Inside Browser Properties 
+2019-11-14 19:11:319 INFO  ResourceHelper:21 -  Inside Browser Properties 
+2019-11-14 19:11:319 INFO  ResourceHelper:21 -  Inside Browser Properties 
+2019-11-14 19:11:729 INFO  BaseTest:73 -  Intialization Success 
+2019-11-14 19:11:729 INFO  BaseTest:73 -  Intialization Success 
+2019-11-14 19:11:729 INFO  BaseTest:73 -  Intialization Success 
+2019-11-14 19:11:729 INFO  BaseTest:73 -  Intialization Success 
+2019-11-14 19:11:745 INFO  ResourceHelper:40 -  Inside Intialize Input Data Method 
+2019-11-14 19:11:743 INFO  ResourceHelper:40 -  Inside Intialize Input Data Method 
+2019-11-14 19:11:742 INFO  ResourceHelper:40 -  Inside Intialize Input Data Method 
+2019-11-14 19:11:766 INFO  ResourceHelper:44 -  After Intializing input data method 
+2019-11-14 19:11:766 INFO  ResourceHelper:44 -  After Intializing input data method 
+2019-11-14 19:11:765 INFO  ResourceHelper:40 -  Inside Intialize Input Data Method 
+2019-11-14 19:11:766 INFO  ResourceHelper:44 -  After Intializing input data method 
+2019-11-14 19:11:819 INFO  ResourceHelper:44 -  After Intializing input data method 
+2019-11-14 19:11:123 INFO  DataProviderInput:26 - 1
+2019-11-14 19:11:123 INFO  DataProviderInput:26 - 1
+2019-11-14 19:11:123 INFO  DataProviderInput:26 - 1
+2019-11-14 19:11:123 INFO  DataProviderInput:26 - 1
+2019-11-14 19:11:142 INFO  DataProviderInput:32 -       Value of Cell is ==== Dell|Laptops      row size 1
+2019-11-14 19:11:142 INFO  DataProviderInput:32 -       Value of Cell is ==== Dell|Laptops      row size 1
+2019-11-14 19:11:142 INFO  DataProviderInput:32 -       Value of Cell is ==== Dell|Laptops      row size 1
+2019-11-14 19:11:142 INFO  DataProviderInput:32 -       Value of Cell is ==== Dell|Laptops      row size 1
+2019-11-14 19:11:152 INFO  BaseTest:87 -  Browser Name =Chrome  URL =https://t.justdial.com
+2019-11-14 19:11:152 INFO  BaseTest:87 -  Browser Name =Chrome  URL =https://t.justdial.com
+2019-11-14 19:11:152 INFO  BaseTest:87 -  Browser Name =Chrome  URL =https://t.justdial.com
+2019-11-14 19:11:152 INFO  BaseTest:87 -  Browser Name =Chrome  URL =https://t.justdial.com
+2019-11-14 19:11:153 INFO  BaseTest:165 -  Inside launch browser method 
+2019-11-14 19:11:153 INFO  BaseTest:165 -  Inside launch browser method 
+2019-11-14 19:11:153 INFO  BaseTest:165 -  Inside launch browser method 
+2019-11-14 19:11:154 INFO  BaseTest:136 -  Inside getBrowserObj method   browser=Chrome
+2019-11-14 19:11:154 INFO  BaseTest:136 -  Inside getBrowserObj method   browser=Chrome
+2019-11-14 19:11:153 INFO  BaseTest:136 -  Inside getBrowserObj method   browser=Chrome
+2019-11-14 19:11:153 INFO  BaseTest:165 -  Inside launch browser method 
+2019-11-14 19:11:154 INFO  BaseTest:139 -  Inside Chrome switch 
+2019-11-14 19:11:154 INFO  BaseTest:139 -  Inside Chrome switch 
+2019-11-14 19:11:154 INFO  BaseTest:139 -  Inside Chrome switch 
+2019-11-14 19:11:155 INFO  BaseTest:136 -  Inside getBrowserObj method   browser=Chrome
+2019-11-14 19:11:156 INFO  BaseTest:139 -  Inside Chrome switch 
+2019-11-14 19:11:558 INFO  BaseTest:167 -  Driver object value ChromeDriver: chrome on XP (786877c207f3762f4b9f8939ab26f06f)
+2019-11-14 19:11:558 INFO  BaseTest:167 -  Driver object value ChromeDriver: chrome on XP (d5976d4766c3376c0be215f11b2e8eb4)
+2019-11-14 19:11:559 INFO  BaseTest:168 - Initialize Webdriver...
+2019-11-14 19:11:559 INFO  BaseTest:168 - Initialize Webdriver...
+2019-11-14 19:11:713 INFO  BaseTest:172 -  Before Open URL =https://t.justdial.com
+2019-11-14 19:11:718 INFO  BaseTest:172 -  Before Open URL =https://t.justdial.com
+2019-11-14 19:11:917 INFO  BaseTest:167 -  Driver object value ChromeDriver: chrome on XP (4348c2aa72806ac1634fb3b10bd5eaf2)
+2019-11-14 19:11:918 INFO  BaseTest:168 - Initialize Webdriver...
+2019-11-14 19:11:946 INFO  BaseTest:172 -  Before Open URL =https://t.justdial.com
+2019-11-14 19:11:996 INFO  BaseTest:167 -  Driver object value ChromeDriver: chrome on XP (9e1195d158396f8cf309b8384a13e24b)
+2019-11-14 19:11:997 INFO  BaseTest:168 - Initialize Webdriver...
+2019-11-14 19:11:37 INFO  BaseTest:172 -  Before Open URL =https://t.justdial.com
+2019-11-14 19:11:103 INFO  BaseTest:244 -  ---------------------------------------------**********------------------
+2019-11-14 19:11:715 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (786877c207f3762f4b9f8939ab26f06f)] -> xpath: //span[text()='More']]
+2019-11-14 19:11:725 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (786877c207f3762f4b9f8939ab26f06f)] -> xpath: //span[text()='More']] for 30 seconds.
+2019-11-14 19:11:334 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 19:11:391 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (786877c207f3762f4b9f8939ab26f06f)] -> xpath: //span[text()='More']]
+2019-11-14 19:11:402 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (786877c207f3762f4b9f8939ab26f06f)] -> xpath: //span[text()='More']] for 10 seconds.
+2019-11-14 19:11:939 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 19:11:55 INFO  BaseTest:244 -  ---------------------------------------------**********------------------
+2019-11-14 19:11:85 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (9e1195d158396f8cf309b8384a13e24b)] -> xpath: //span[text()='More']]
+2019-11-14 19:11:95 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (9e1195d158396f8cf309b8384a13e24b)] -> xpath: //span[text()='More']] for 30 seconds.
+2019-11-14 19:11:132 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 19:11:697 INFO  BaseTest:244 -  ---------------------------------------------**********------------------
+2019-11-14 19:11:733 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (d5976d4766c3376c0be215f11b2e8eb4)] -> xpath: //span[text()='More']]
+2019-11-14 19:11:744 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (d5976d4766c3376c0be215f11b2e8eb4)] -> xpath: //span[text()='More']] for 30 seconds.
+2019-11-14 19:11:778 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 19:11:175 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (9e1195d158396f8cf309b8384a13e24b)] -> xpath: //span[text()='More']]
+2019-11-14 19:11:185 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (9e1195d158396f8cf309b8384a13e24b)] -> xpath: //span[text()='More']] for 10 seconds.
+2019-11-14 19:11:236 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 19:11:42 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (d5976d4766c3376c0be215f11b2e8eb4)] -> xpath: //span[text()='More']]
+2019-11-14 19:11:60 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (d5976d4766c3376c0be215f11b2e8eb4)] -> xpath: //span[text()='More']] for 10 seconds.
+2019-11-14 19:11:123 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 19:11:790 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (9e1195d158396f8cf309b8384a13e24b)] -> xpath: //span[text()='Shopping']]
+2019-11-14 19:11:801 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (9e1195d158396f8cf309b8384a13e24b)] -> xpath: //span[text()='Shopping']] for 30 seconds.
+2019-11-14 19:11:832 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 19:11:876 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (9e1195d158396f8cf309b8384a13e24b)] -> xpath: //span[text()='Shopping']]
+2019-11-14 19:11:886 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (9e1195d158396f8cf309b8384a13e24b)] -> xpath: //span[text()='Shopping']] for 10 seconds.
+2019-11-14 19:11:931 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 19:11:399 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (d5976d4766c3376c0be215f11b2e8eb4)] -> xpath: //span[text()='Shopping']]
+2019-11-14 19:11:408 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (d5976d4766c3376c0be215f11b2e8eb4)] -> xpath: //span[text()='Shopping']] for 30 seconds.
+2019-11-14 19:11:434 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 19:11:436 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (786877c207f3762f4b9f8939ab26f06f)] -> xpath: //span[text()='Shopping']]
+2019-11-14 19:11:454 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (786877c207f3762f4b9f8939ab26f06f)] -> xpath: //span[text()='Shopping']] for 30 seconds.
+2019-11-14 19:11:501 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (d5976d4766c3376c0be215f11b2e8eb4)] -> xpath: //span[text()='Shopping']]
+2019-11-14 19:11:506 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 19:11:525 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (d5976d4766c3376c0be215f11b2e8eb4)] -> xpath: //span[text()='Shopping']] for 10 seconds.
+2019-11-14 19:11:619 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 19:11:605 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (786877c207f3762f4b9f8939ab26f06f)] -> xpath: //span[text()='Shopping']]
+2019-11-14 19:11:621 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (786877c207f3762f4b9f8939ab26f06f)] -> xpath: //span[text()='Shopping']] for 10 seconds.
+2019-11-14 19:11:693 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 19:11:859 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (786877c207f3762f4b9f8939ab26f06f)] -> id: hdrinputotr]
+2019-11-14 19:11:870 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (786877c207f3762f4b9f8939ab26f06f)] -> id: hdrinputotr] for 30 seconds.
+2019-11-14 19:11:901 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 19:11:492 INFO  BaseTest:244 -  ---------------------------------------------**********------------------
+2019-11-14 19:11:525 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (4348c2aa72806ac1634fb3b10bd5eaf2)] -> xpath: //span[text()='More']]
+2019-11-14 19:11:544 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (4348c2aa72806ac1634fb3b10bd5eaf2)] -> xpath: //span[text()='More']] for 30 seconds.
+2019-11-14 19:11:581 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 19:11:946 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (786877c207f3762f4b9f8939ab26f06f)] -> id: hdrinputotr]
+2019-11-14 19:11:964 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (786877c207f3762f4b9f8939ab26f06f)] -> id: hdrinputotr] for 10 seconds.
+2019-11-14 19:11:15 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 19:11:622 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (4348c2aa72806ac1634fb3b10bd5eaf2)] -> xpath: //span[text()='More']]
+2019-11-14 19:11:631 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (4348c2aa72806ac1634fb3b10bd5eaf2)] -> xpath: //span[text()='More']] for 10 seconds.
+2019-11-14 19:11:683 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 19:11:649 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (d5976d4766c3376c0be215f11b2e8eb4)] -> id: hdrinputotr]
+2019-11-14 19:11:659 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (d5976d4766c3376c0be215f11b2e8eb4)] -> id: hdrinputotr] for 30 seconds.
+2019-11-14 19:11:686 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 19:11:726 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (d5976d4766c3376c0be215f11b2e8eb4)] -> id: hdrinputotr]
+2019-11-14 19:11:736 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (d5976d4766c3376c0be215f11b2e8eb4)] -> id: hdrinputotr] for 10 seconds.
+2019-11-14 19:11:785 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 19:11:921 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (9e1195d158396f8cf309b8384a13e24b)] -> id: hdrinputotr]
+2019-11-14 19:11:941 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (9e1195d158396f8cf309b8384a13e24b)] -> id: hdrinputotr] for 30 seconds.
+2019-11-14 19:11:984 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 19:11:668 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (4348c2aa72806ac1634fb3b10bd5eaf2)] -> xpath: //span[text()='Shopping']]
+2019-11-14 19:11:682 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (4348c2aa72806ac1634fb3b10bd5eaf2)] -> xpath: //span[text()='Shopping']] for 30 seconds.
+2019-11-14 19:11:706 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 19:11:31 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (9e1195d158396f8cf309b8384a13e24b)] -> id: hdrinputotr]
+2019-11-14 19:11:46 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (9e1195d158396f8cf309b8384a13e24b)] -> id: hdrinputotr] for 10 seconds.
+2019-11-14 19:11:108 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 19:11:761 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (4348c2aa72806ac1634fb3b10bd5eaf2)] -> xpath: //span[text()='Shopping']]
+2019-11-14 19:11:799 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (4348c2aa72806ac1634fb3b10bd5eaf2)] -> xpath: //span[text()='Shopping']] for 10 seconds.
+2019-11-14 19:11:837 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 19:11:130 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (4348c2aa72806ac1634fb3b10bd5eaf2)] -> id: hdrinputotr]
+2019-11-14 19:11:137 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (4348c2aa72806ac1634fb3b10bd5eaf2)] -> id: hdrinputotr] for 30 seconds.
+2019-11-14 19:11:165 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 19:11:234 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (4348c2aa72806ac1634fb3b10bd5eaf2)] -> id: hdrinputotr]
+2019-11-14 19:11:245 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (4348c2aa72806ac1634fb3b10bd5eaf2)] -> id: hdrinputotr] for 10 seconds.
+2019-11-14 19:11:288 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 19:11:95 INFO  BaseTest:97 -  Inside Post Condition 
+2019-11-14 19:11:95 INFO  BaseTest:103 - failed method shopfrontProductSearchCheckList86
+2019-11-14 19:11:96 INFO  BaseTest:97 -  Inside Post Condition 
+2019-11-14 19:11:96 INFO  BaseTest:103 - failed method shopfrontProductSearchCheckList86
+2019-11-14 19:11:97 INFO  BaseTest:97 -  Inside Post Condition 
+2019-11-14 19:11:97 INFO  BaseTest:103 - failed method shopfrontProductSearchCheckList86
+2019-11-14 19:11:99 INFO  BaseTest:97 -  Inside Post Condition 
+2019-11-14 19:11:99 INFO  BaseTest:103 - failed method shopfrontProductSearchCheckList86
+2019-11-14 19:11:836 INFO  BaseTest:132 -  
+ After Close 
+2019-11-14 19:11:922 INFO  BaseTest:132 -  
+ After Close 
+2019-11-14 19:11:520 INFO  BaseTest:132 -  
+ After Close 
+2019-11-14 19:11:835 INFO  BaseTest:132 -  
+ After Close 
+2019-11-14 19:11:352 INFO  ResourceHelper:21 -  Inside Browser Properties 
+2019-11-14 19:11:512 INFO  BaseTest:73 -  Intialization Success 
+2019-11-14 19:11:526 INFO  ResourceHelper:40 -  Inside Intialize Input Data Method 
+2019-11-14 19:11:527 INFO  ResourceHelper:44 -  After Intializing input data method 
+2019-11-14 19:11:732 INFO  DataProviderInput:26 - 1
+2019-11-14 19:11:738 INFO  DataProviderInput:32 -       Value of Cell is ==== Dell|Laptops      row size 1
+2019-11-14 19:11:745 INFO  BaseTest:87 -  Browser Name =Chrome  URL =https://t.justdial.com
+2019-11-14 19:11:746 INFO  BaseTest:165 -  Inside launch browser method 
+2019-11-14 19:11:746 INFO  BaseTest:136 -  Inside getBrowserObj method   browser=Chrome
+2019-11-14 19:11:746 INFO  BaseTest:139 -  Inside Chrome switch 
+2019-11-14 19:11:795 INFO  BaseTest:167 -  Driver object value ChromeDriver: chrome on XP (e0021f064a2a38acf8b5a953d1bd7c2a)
+2019-11-14 19:11:795 INFO  BaseTest:168 - Initialize Webdriver...
+2019-11-14 19:11:811 INFO  BaseTest:172 -  Before Open URL =https://t.justdial.com
+2019-11-14 19:11:717 INFO  BaseTest:244 -  ---------------------------------------------**********------------------
+2019-11-14 19:11:937 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (e0021f064a2a38acf8b5a953d1bd7c2a)] -> xpath: //span[text()='More']]
+2019-11-14 19:11:950 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (e0021f064a2a38acf8b5a953d1bd7c2a)] -> xpath: //span[text()='More']] for 30 seconds.
+2019-11-14 19:11:14 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 19:11:83 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (e0021f064a2a38acf8b5a953d1bd7c2a)] -> xpath: //span[text()='More']]
+2019-11-14 19:11:101 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (e0021f064a2a38acf8b5a953d1bd7c2a)] -> xpath: //span[text()='More']] for 10 seconds.
+2019-11-14 19:11:164 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 19:11:457 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (e0021f064a2a38acf8b5a953d1bd7c2a)] -> xpath: //span[text()='Shopping']]
+2019-11-14 19:11:467 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (e0021f064a2a38acf8b5a953d1bd7c2a)] -> xpath: //span[text()='Shopping']] for 30 seconds.
+2019-11-14 19:11:498 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 19:11:559 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (e0021f064a2a38acf8b5a953d1bd7c2a)] -> xpath: //span[text()='Shopping']]
+2019-11-14 19:11:570 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (e0021f064a2a38acf8b5a953d1bd7c2a)] -> xpath: //span[text()='Shopping']] for 10 seconds.
+2019-11-14 19:11:612 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 19:11:744 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (e0021f064a2a38acf8b5a953d1bd7c2a)] -> id: hdrinputotr]
+2019-11-14 19:11:752 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (e0021f064a2a38acf8b5a953d1bd7c2a)] -> id: hdrinputotr] for 30 seconds.
+2019-11-14 19:11:779 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 19:11:836 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (e0021f064a2a38acf8b5a953d1bd7c2a)] -> id: hdrinputotr]
+2019-11-14 19:11:845 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (e0021f064a2a38acf8b5a953d1bd7c2a)] -> id: hdrinputotr] for 10 seconds.
+2019-11-14 19:11:887 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 19:11:768 INFO  ResultsPage:161 -  Category Result Dell Inspiron 3567 15.6-inch Laptop (6th i3- 6006U/4GB/1TB/Windows 10/Integrated Graphics), Black
+2019-11-14 19:11:813 INFO  ResultsPage:161 -  Category Result Dell Inspiron 5570 15.6-inch FHD Laptop (8th Gen i5-8250U/8GB/2TB/Windows 10 with Ms Office Home & Student 2016/2GB Graphics), Black
+2019-11-14 19:11:849 INFO  ResultsPage:161 -  Category Result DELL 3565 15.6-inch Laptop (7th Gen E2-9000/4GB/1TB/Windows 10/Integrated Graphics), Black
+2019-11-14 19:11:884 INFO  ResultsPage:161 -  Category Result Dell Vostro 15 3000 Core i3 6th Gen - (4 GB/1 TB HDD/Linux) 3568 Laptop(15.6 inch, Black, 2.18 kg)
+2019-11-14 19:11:918 INFO  ResultsPage:161 -  Category Result Dell Inspiron 3552 (Celeron Dual Core N3060/4 GB/500 GB HDD/15.6 /Ubuntu/Integrated Graphics) (Black)
+2019-11-14 19:11:955 INFO  ResultsPage:161 -  Category Result Dell Vostro 14 3000 Core i5 8th Gen - (4 GB/1 TB HDD/Linux/2 GB Graphics) 3478 Laptop(14 inch, Black, 1.76 kg)
+2019-11-14 19:11:992 INFO  ResultsPage:161 -  Category Result Dell Inspiron 15 7000 Core i7 7th Gen - (8 GB/1 TB HDD/128 GB SSD/Windows 10 Home/4 GB Graphics) 7567 Gaming Laptop(15.6 inch, Matt Black, 2.62 kg, With MS Office)
+2019-11-14 19:11:26 INFO  ResultsPage:161 -  Category Result Dell Inspiron Core i3 6th Gen - (4 GB/1 TB HDD/Linux) 3467 Laptop(14 inch, Black, 1.956 kg)
+2019-11-14 19:11:60 INFO  ResultsPage:161 -  Category Result Dell Inspiron 13 5000 Core i3 7th Gen - (4 GB/128 GB SSD/Windows 10 Home) 5370 Thin and Light Laptop(13 inch, Silver, 1.4 kg, With MS Office)
+2019-11-14 19:11:94 INFO  ResultsPage:161 -  Category Result Dell Inspiron 3567 Intel Core i3 7th Gen 15.6- FHD Laptop (4GB/1TB HDD/Windows 10 Home/MS Office/Black/2.5kg)
+2019-11-14 19:11:105 INFO  BaseTest:97 -  Inside Post Condition 
+2019-11-14 19:11:477 INFO  BaseTest:132 -  
+ After Close 
+2019-11-14 19:11:496 INFO  ResourceHelper:21 -  Inside Browser Properties 
+2019-11-14 19:11:496 INFO  BaseTest:73 -  Intialization Success 
+2019-11-14 19:11:498 INFO  ResourceHelper:40 -  Inside Intialize Input Data Method 
+2019-11-14 19:11:499 INFO  ResourceHelper:44 -  After Intializing input data method 
+2019-11-14 19:11:503 INFO  DataProviderInput:26 - 1
+2019-11-14 19:11:506 INFO  DataProviderInput:32 -       Value of Cell is ==== Dell|Laptops      row size 1
+2019-11-14 19:11:507 INFO  BaseTest:87 -  Browser Name =Chrome  URL =https://t.justdial.com
+2019-11-14 19:11:507 INFO  BaseTest:165 -  Inside launch browser method 
+2019-11-14 19:11:507 INFO  BaseTest:136 -  Inside getBrowserObj method   browser=Chrome
+2019-11-14 19:11:507 INFO  BaseTest:139 -  Inside Chrome switch 
+2019-11-14 19:11:574 INFO  BaseTest:167 -  Driver object value ChromeDriver: chrome on XP (d45aa150958d30159b4a572f1da739e3)
+2019-11-14 19:11:575 INFO  BaseTest:168 - Initialize Webdriver...
+2019-11-14 19:11:594 INFO  BaseTest:172 -  Before Open URL =https://t.justdial.com
+2019-11-14 19:11:866 INFO  BaseTest:244 -  ---------------------------------------------**********------------------
+2019-11-14 19:11:894 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (d45aa150958d30159b4a572f1da739e3)] -> xpath: //span[text()='More']]
+2019-11-14 19:11:903 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (d45aa150958d30159b4a572f1da739e3)] -> xpath: //span[text()='More']] for 30 seconds.
+2019-11-14 19:11:932 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 19:11:974 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (d45aa150958d30159b4a572f1da739e3)] -> xpath: //span[text()='More']]
+2019-11-14 19:11:984 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (d45aa150958d30159b4a572f1da739e3)] -> xpath: //span[text()='More']] for 10 seconds.
+2019-11-14 19:11:29 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 19:11:316 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (d45aa150958d30159b4a572f1da739e3)] -> xpath: //span[text()='Shopping']]
+2019-11-14 19:11:330 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (d45aa150958d30159b4a572f1da739e3)] -> xpath: //span[text()='Shopping']] for 30 seconds.
+2019-11-14 19:11:366 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 19:11:436 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (d45aa150958d30159b4a572f1da739e3)] -> xpath: //span[text()='Shopping']]
+2019-11-14 19:11:443 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (d45aa150958d30159b4a572f1da739e3)] -> xpath: //span[text()='Shopping']] for 10 seconds.
+2019-11-14 19:11:481 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 19:11:643 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (d45aa150958d30159b4a572f1da739e3)] -> id: hdrinputotr]
+2019-11-14 19:11:658 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (d45aa150958d30159b4a572f1da739e3)] -> id: hdrinputotr] for 30 seconds.
+2019-11-14 19:11:700 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 19:11:757 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (d45aa150958d30159b4a572f1da739e3)] -> id: hdrinputotr]
+2019-11-14 19:11:766 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (d45aa150958d30159b4a572f1da739e3)] -> id: hdrinputotr] for 10 seconds.
+2019-11-14 19:11:806 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 19:11:87 INFO  ResultsPage:161 -  Category Result Dell Inspiron 3567 15.6-inch Laptop (6th i3- 6006U/4GB/1TB/Windows 10/Integrated Graphics), Black
+2019-11-14 19:11:118 INFO  ResultsPage:161 -  Category Result Dell Inspiron 5570 15.6-inch FHD Laptop (8th Gen i5-8250U/8GB/2TB/Windows 10 with Ms Office Home & Student 2016/2GB Graphics), Black
+2019-11-14 19:11:152 INFO  ResultsPage:161 -  Category Result DELL 3565 15.6-inch Laptop (7th Gen E2-9000/4GB/1TB/Windows 10/Integrated Graphics), Black
+2019-11-14 19:11:244 INFO  ResultsPage:161 -  Category Result Dell Vostro 15 3000 Core i3 6th Gen - (4 GB/1 TB HDD/Linux) 3568 Laptop(15.6 inch, Black, 2.18 kg)
+2019-11-14 19:11:298 INFO  ResultsPage:161 -  Category Result Dell Inspiron 3552 (Celeron Dual Core N3060/4 GB/500 GB HDD/15.6 /Ubuntu/Integrated Graphics) (Black)
+2019-11-14 19:11:332 INFO  ResultsPage:161 -  Category Result Dell Vostro 14 3000 Core i5 8th Gen - (4 GB/1 TB HDD/Linux/2 GB Graphics) 3478 Laptop(14 inch, Black, 1.76 kg)
+2019-11-14 19:11:365 INFO  ResultsPage:161 -  Category Result Dell Inspiron 15 7000 Core i7 7th Gen - (8 GB/1 TB HDD/128 GB SSD/Windows 10 Home/4 GB Graphics) 7567 Gaming Laptop(15.6 inch, Matt Black, 2.62 kg, With MS Office)
+2019-11-14 19:11:399 INFO  ResultsPage:161 -  Category Result Dell Inspiron Core i3 6th Gen - (4 GB/1 TB HDD/Linux) 3467 Laptop(14 inch, Black, 1.956 kg)
+2019-11-14 19:11:433 INFO  ResultsPage:161 -  Category Result Dell Inspiron 13 5000 Core i3 7th Gen - (4 GB/128 GB SSD/Windows 10 Home) 5370 Thin and Light Laptop(13 inch, Silver, 1.4 kg, With MS Office)
+2019-11-14 19:11:467 INFO  ResultsPage:161 -  Category Result Dell Inspiron 3567 Intel Core i3 7th Gen 15.6- FHD Laptop (4GB/1TB HDD/Windows 10 Home/MS Office/Black/2.5kg)
+2019-11-14 19:11:482 INFO  BaseTest:97 -  Inside Post Condition 
+2019-11-14 19:11:58 INFO  BaseTest:132 -  
+ After Close 
+2019-11-14 19:11:66 INFO  ResourceHelper:21 -  Inside Browser Properties 
+2019-11-14 19:11:66 INFO  BaseTest:73 -  Intialization Success 
+2019-11-14 19:11:68 INFO  ResourceHelper:40 -  Inside Intialize Input Data Method 
+2019-11-14 19:11:68 INFO  ResourceHelper:44 -  After Intializing input data method 
+2019-11-14 19:11:71 INFO  DataProviderInput:26 - 1
+2019-11-14 19:11:78 INFO  DataProviderInput:32 -       Value of Cell is ==== Dell|Laptops      row size 1
+2019-11-14 19:11:79 INFO  BaseTest:87 -  Browser Name =Chrome  URL =https://t.justdial.com
+2019-11-14 19:11:79 INFO  BaseTest:165 -  Inside launch browser method 
+2019-11-14 19:11:79 INFO  BaseTest:136 -  Inside getBrowserObj method   browser=Chrome
+2019-11-14 19:11:79 INFO  BaseTest:139 -  Inside Chrome switch 
+2019-11-14 19:11:398 INFO  BaseTest:167 -  Driver object value ChromeDriver: chrome on XP (7318d3b983ee27127750df919a2b141d)
+2019-11-14 19:11:398 INFO  BaseTest:168 - Initialize Webdriver...
+2019-11-14 19:11:421 INFO  BaseTest:172 -  Before Open URL =https://t.justdial.com
+2019-11-14 19:11:542 INFO  BaseTest:244 -  ---------------------------------------------**********------------------
+2019-11-14 19:11:580 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (7318d3b983ee27127750df919a2b141d)] -> xpath: //span[text()='More']]
+2019-11-14 19:11:590 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (7318d3b983ee27127750df919a2b141d)] -> xpath: //span[text()='More']] for 30 seconds.
+2019-11-14 19:11:629 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 19:11:695 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (7318d3b983ee27127750df919a2b141d)] -> xpath: //span[text()='More']]
+2019-11-14 19:11:703 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (7318d3b983ee27127750df919a2b141d)] -> xpath: //span[text()='More']] for 10 seconds.
+2019-11-14 19:11:755 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 19:11:98 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (7318d3b983ee27127750df919a2b141d)] -> xpath: //span[text()='Shopping']]
+2019-11-14 19:11:118 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (7318d3b983ee27127750df919a2b141d)] -> xpath: //span[text()='Shopping']] for 30 seconds.
+2019-11-14 19:11:170 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 19:11:225 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (7318d3b983ee27127750df919a2b141d)] -> xpath: //span[text()='Shopping']]
+2019-11-14 19:11:234 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (7318d3b983ee27127750df919a2b141d)] -> xpath: //span[text()='Shopping']] for 10 seconds.
+2019-11-14 19:11:274 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 19:11:403 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (7318d3b983ee27127750df919a2b141d)] -> id: hdrinputotr]
+2019-11-14 19:11:411 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (7318d3b983ee27127750df919a2b141d)] -> id: hdrinputotr] for 30 seconds.
+2019-11-14 19:11:434 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 19:11:474 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (7318d3b983ee27127750df919a2b141d)] -> id: hdrinputotr]
+2019-11-14 19:11:482 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (7318d3b983ee27127750df919a2b141d)] -> id: hdrinputotr] for 10 seconds.
+2019-11-14 19:11:520 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 19:11:10 INFO  ResultsPage:161 -  Category Result Dell Inspiron 3567 15.6-inch Laptop (6th i3- 6006U/4GB/1TB/Windows 10/Integrated Graphics), Black
+2019-11-14 19:11:39 INFO  ResultsPage:161 -  Category Result Dell Inspiron 5570 15.6-inch FHD Laptop (8th Gen i5-8250U/8GB/2TB/Windows 10 with Ms Office Home & Student 2016/2GB Graphics), Black
+2019-11-14 19:11:70 INFO  ResultsPage:161 -  Category Result DELL 3565 15.6-inch Laptop (7th Gen E2-9000/4GB/1TB/Windows 10/Integrated Graphics), Black
+2019-11-14 19:11:102 INFO  ResultsPage:161 -  Category Result Dell Vostro 15 3000 Core i3 6th Gen - (4 GB/1 TB HDD/Linux) 3568 Laptop(15.6 inch, Black, 2.18 kg)
+2019-11-14 19:11:134 INFO  ResultsPage:161 -  Category Result Dell Inspiron 3552 (Celeron Dual Core N3060/4 GB/500 GB HDD/15.6 /Ubuntu/Integrated Graphics) (Black)
+2019-11-14 19:11:166 INFO  ResultsPage:161 -  Category Result Dell Vostro 14 3000 Core i5 8th Gen - (4 GB/1 TB HDD/Linux/2 GB Graphics) 3478 Laptop(14 inch, Black, 1.76 kg)
+2019-11-14 19:11:199 INFO  ResultsPage:161 -  Category Result Dell Inspiron 15 7000 Core i7 7th Gen - (8 GB/1 TB HDD/128 GB SSD/Windows 10 Home/4 GB Graphics) 7567 Gaming Laptop(15.6 inch, Matt Black, 2.62 kg, With MS Office)
+2019-11-14 19:11:233 INFO  ResultsPage:161 -  Category Result Dell Inspiron Core i3 6th Gen - (4 GB/1 TB HDD/Linux) 3467 Laptop(14 inch, Black, 1.956 kg)
+2019-11-14 19:11:264 INFO  ResultsPage:161 -  Category Result Dell Inspiron 13 5000 Core i3 7th Gen - (4 GB/128 GB SSD/Windows 10 Home) 5370 Thin and Light Laptop(13 inch, Silver, 1.4 kg, With MS Office)
+2019-11-14 19:11:297 INFO  ResultsPage:161 -  Category Result Dell Inspiron 3567 Intel Core i3 7th Gen 15.6- FHD Laptop (4GB/1TB HDD/Windows 10 Home/MS Office/Black/2.5kg)
+2019-11-14 19:11:309 INFO  BaseTest:97 -  Inside Post Condition 
+2019-11-14 19:11:231 INFO  BaseTest:132 -  
+ After Close 
+2019-11-14 19:11:239 INFO  ResourceHelper:21 -  Inside Browser Properties 
+2019-11-14 19:11:240 INFO  BaseTest:73 -  Intialization Success 
+2019-11-14 19:11:241 INFO  ResourceHelper:40 -  Inside Intialize Input Data Method 
+2019-11-14 19:11:241 INFO  ResourceHelper:44 -  After Intializing input data method 
+2019-11-14 19:11:244 INFO  DataProviderInput:26 - 1
+2019-11-14 19:11:246 INFO  DataProviderInput:32 -       Value of Cell is ==== Dell|Laptops      row size 1
+2019-11-14 19:11:247 INFO  BaseTest:87 -  Browser Name =Chrome  URL =https://t.justdial.com
+2019-11-14 19:11:247 INFO  BaseTest:165 -  Inside launch browser method 
+2019-11-14 19:11:247 INFO  BaseTest:136 -  Inside getBrowserObj method   browser=Chrome
+2019-11-14 19:11:247 INFO  BaseTest:139 -  Inside Chrome switch 
+2019-11-14 19:11:373 INFO  BaseTest:167 -  Driver object value ChromeDriver: chrome on XP (1e01e4a420dcb9cd2561a740ad37806e)
+2019-11-14 19:11:373 INFO  BaseTest:168 - Initialize Webdriver...
+2019-11-14 19:11:407 INFO  BaseTest:172 -  Before Open URL =https://t.justdial.com
+2019-11-14 19:11:273 INFO  BaseTest:244 -  ---------------------------------------------**********------------------
+2019-11-14 19:11:303 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (1e01e4a420dcb9cd2561a740ad37806e)] -> xpath: //span[text()='More']]
+2019-11-14 19:11:315 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (1e01e4a420dcb9cd2561a740ad37806e)] -> xpath: //span[text()='More']] for 30 seconds.
+2019-11-14 19:11:348 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 19:11:387 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (1e01e4a420dcb9cd2561a740ad37806e)] -> xpath: //span[text()='More']]
+2019-11-14 19:11:396 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (1e01e4a420dcb9cd2561a740ad37806e)] -> xpath: //span[text()='More']] for 10 seconds.
+2019-11-14 19:11:439 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 19:11:671 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (1e01e4a420dcb9cd2561a740ad37806e)] -> xpath: //span[text()='Shopping']]
+2019-11-14 19:11:682 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (1e01e4a420dcb9cd2561a740ad37806e)] -> xpath: //span[text()='Shopping']] for 30 seconds.
+2019-11-14 19:11:740 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 19:11:805 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (1e01e4a420dcb9cd2561a740ad37806e)] -> xpath: //span[text()='Shopping']]
+2019-11-14 19:11:819 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (1e01e4a420dcb9cd2561a740ad37806e)] -> xpath: //span[text()='Shopping']] for 10 seconds.
+2019-11-14 19:11:881 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 19:11:13 INFO  CommonBasePage:196 -  Element ************************* =[[ChromeDriver: chrome on XP (1e01e4a420dcb9cd2561a740ad37806e)] -> id: hdrinputotr]
+2019-11-14 19:11:23 INFO  CommonBasePage:197 - Waiting for [[ChromeDriver: chrome on XP (1e01e4a420dcb9cd2561a740ad37806e)] -> id: hdrinputotr] for 30 seconds.
+2019-11-14 19:11:44 INFO  CommonBasePage:200 - Element is visible.
+2019-11-14 19:11:83 INFO  CommonBasePage:149 - Fail to move to element: [[ChromeDriver: chrome on XP (1e01e4a420dcb9cd2561a740ad37806e)] -> id: hdrinputotr]
+2019-11-14 19:11:90 INFO  CommonBasePage:204 - Waiting for [[ChromeDriver: chrome on XP (1e01e4a420dcb9cd2561a740ad37806e)] -> id: hdrinputotr] for 10 seconds.
+2019-11-14 19:11:128 INFO  CommonBasePage:207 - Element is clickable.
+2019-11-14 19:11:246 INFO  ResultsPage:161 -  Category Result Dell Inspiron 3567 15.6-inch Laptop (6th i3- 6006U/4GB/1TB/Windows 10/Integrated Graphics), Black
+2019-11-14 19:11:315 INFO  ResultsPage:161 -  Category Result Dell Inspiron 5570 15.6-inch FHD Laptop (8th Gen i5-8250U/8GB/2TB/Windows 10 with Ms Office Home & Student 2016/2GB Graphics), Black
+2019-11-14 19:11:349 INFO  ResultsPage:161 -  Category Result DELL 3565 15.6-inch Laptop (7th Gen E2-9000/4GB/1TB/Windows 10/Integrated Graphics), Black
+2019-11-14 19:11:382 INFO  ResultsPage:161 -  Category Result Dell Vostro 15 3000 Core i3 6th Gen - (4 GB/1 TB HDD/Linux) 3568 Laptop(15.6 inch, Black, 2.18 kg)
+2019-11-14 19:11:414 INFO  ResultsPage:161 -  Category Result Dell Inspiron 3552 (Celeron Dual Core N3060/4 GB/500 GB HDD/15.6 /Ubuntu/Integrated Graphics) (Black)
+2019-11-14 19:11:447 INFO  ResultsPage:161 -  Category Result Dell Vostro 14 3000 Core i5 8th Gen - (4 GB/1 TB HDD/Linux/2 GB Graphics) 3478 Laptop(14 inch, Black, 1.76 kg)
+2019-11-14 19:11:479 INFO  ResultsPage:161 -  Category Result Dell Inspiron 15 7000 Core i7 7th Gen - (8 GB/1 TB HDD/128 GB SSD/Windows 10 Home/4 GB Graphics) 7567 Gaming Laptop(15.6 inch, Matt Black, 2.62 kg, With MS Office)
+2019-11-14 19:11:513 INFO  ResultsPage:161 -  Category Result Dell Inspiron Core i3 6th Gen - (4 GB/1 TB HDD/Linux) 3467 Laptop(14 inch, Black, 1.956 kg)
+2019-11-14 19:11:545 INFO  ResultsPage:161 -  Category Result Dell Inspiron 13 5000 Core i3 7th Gen - (4 GB/128 GB SSD/Windows 10 Home) 5370 Thin and Light Laptop(13 inch, Silver, 1.4 kg, With MS Office)
+2019-11-14 19:11:579 INFO  ResultsPage:161 -  Category Result Dell Inspiron 3567 Intel Core i3 7th Gen 15.6- FHD Laptop (4GB/1TB HDD/Windows 10 Home/MS Office/Black/2.5kg)
+2019-11-14 19:11:591 INFO  BaseTest:97 -  Inside Post Condition 
+2019-11-14 19:11:792 INFO  BaseTest:132 -  
+ After Close 

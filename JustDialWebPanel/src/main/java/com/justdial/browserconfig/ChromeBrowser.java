@@ -12,11 +12,11 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class ChromeBrowser {
 
-    public ChromeOptions getChromeOptions() {
+    public ChromeOptions getChromeOptions(String deviceName) {
     	
         ChromeOptions options = new ChromeOptions();
         TreeMap<String, String> mobileEmulation = new TreeMap<>(); //Creating Map for emulating the browser
-        mobileEmulation.put("deviceName", "iPhone X");//Device will be iPhone X
+        mobileEmulation.put("deviceName", deviceName);//Device will be iPhone X
         options.addArguments("--test-type");
         options.addArguments("--enable-popup-blocking");
         options.addArguments("--start-maximized");

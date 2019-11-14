@@ -18,6 +18,7 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Listeners;
+import org.testng.annotations.Parameters;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
@@ -71,7 +72,7 @@ public  class BaseTest
 					
 					logs.info(" Intialization Success ");
 				}
-			catch(Exception e)
+				catch(Exception e)
 				{
 					e.printStackTrace();
 					logs.error(" Exception occured while intializing "+e.getMessage());
@@ -79,11 +80,12 @@ public  class BaseTest
 	
 		}
 		@BeforeMethod(alwaysRun = true)
-		public void openApplication() throws Exception
+		@Parameters("DeviceName")
+		public void openApplication(String deviceName) throws Exception
 		{ 
 			
 			logs.info(" Browser Name ="+browser.getProperty("brw")+"  URL ="+browser.getProperty("url"));
-			launchBrowser(browser.getProperty("brw"), browser.getProperty("url"));
+			launchBrowser(browser.getProperty("brw"), browser.getProperty("url"), deviceName);
 			
 			 
 		}
@@ -129,14 +131,14 @@ public  class BaseTest
 			driver.close();
 			logs.info(" \n After Close ");
 		}
-		public WebDriver getBrowserObj(String browser) throws Exception {
+		public WebDriver getBrowserObj(String browser, String deviceName) throws Exception {
 	        try {
 	        	logs.info(" Inside getBrowserObj method   browser="+browser);
 	            switch (browser) {
 	                case "Chrome":
 	                	logs.info(" Inside Chrome switch ");
 	                    ChromeBrowser chrome = ChromeBrowser.class.newInstance();
-	                    ChromeOptions options = chrome.getChromeOptions();
+	                    ChromeOptions options = chrome.getChromeOptions(deviceName);
 	                    return chrome.getChromeDriver(options);
 
 	                case "Firefox":
@@ -159,9 +161,9 @@ public  class BaseTest
 	        }
 	    }
 
-	    public void launchBrowser(String browserName, String url) throws Exception {
+	    public void launchBrowser(String browserName, String url, String deviceName) throws Exception {
 	    	logs.info(" Inside launch browser method ");
-	        driver = getBrowserObj(browserName);
+	        driver = getBrowserObj(browserName, deviceName);
 	        logs.info(" Driver object value "+driver);
 	        logs.info("Initialize Webdriver...");
 	        driver.manage().timeouts().implicitlyWait(60,TimeUnit.SECONDS);

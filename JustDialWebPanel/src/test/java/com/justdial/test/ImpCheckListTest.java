@@ -116,6 +116,7 @@ public class ImpCheckListTest extends BaseTest {
 		ResultsPage rp=new ResultsPage(driver);
 		hp.enterSearchContent(freeTextMovie);
 		GenericUtils.pressEnter();
+		Thread.sleep(2000);
 		rp.verifyMovieTitle(freeTextMovie);
 		
 		
@@ -132,6 +133,7 @@ public class ImpCheckListTest extends BaseTest {
 		ResultsPage rp=new ResultsPage(driver);
 		hp.enterSearchContent(movWithArea);
 		GenericUtils.pressEnter();
+		Thread.sleep(2000);
 		rp.verifyMovieTitle(movName);
 		
 	}
@@ -230,7 +232,7 @@ public class ImpCheckListTest extends BaseTest {
 		
 	}
 	
-	@Test(priority=15, dataProvider = "ShopFrontProductBrand", dataProviderClass = DataProviderInput.class, enabled =false)
+	@Test(priority=15, dataProvider = "ShopFrontProductBrand", dataProviderClass = DataProviderInput.class, enabled =true)
 	public void shopfrontProductSearchCheckList86(String ProductSearch) throws InterruptedException
 	{
 		logger=extent.createTest(" This test is to verify Search products in Shopfront ");
@@ -258,6 +260,7 @@ public class ImpCheckListTest extends BaseTest {
 		Thread.sleep(2000);
 		hp.enterSearchElementSearchPage(ProductSearch);
 		GenericUtils.pressEnter();
+		Thread.sleep(2000);
 		rp.verifyProdResult(brand);
 	}
 	

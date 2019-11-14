@@ -47,7 +47,7 @@ public class CityChangePage {
 	  
 	  
 	  // This xpath is to find the location which is dectected or location entered 
-	  @FindBy(xpath="//div[@id='middle_btn']/span[2]")
+	  @FindBy(xpath="//ul[@class='lctname']/div/li/span[@class='lctnarea font15']")
 	  private WebElement detectedLoc;
 	  
 	  public void clickDetectMyLoc()
