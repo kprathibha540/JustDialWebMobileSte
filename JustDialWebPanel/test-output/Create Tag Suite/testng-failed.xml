@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Create Tag Suite]">
+  <listeners>
+    <listener class-name="com.lifeco.generic.RetryListnerClass"/>
+  </listeners>
+  <test thread-count="5" name="CreateTag(failed)">
+    <classes>
+      <class name="com.lifeco.data.Data_SurveyResponses_Test">
+        <methods>
+          <include name="intialize"/>
+          <include name="navigateToDataSurveyResponses"/>
+          <include name="zpostcondition"/>
+          <include name="openApplication"/>
+        </methods>
+      </class> <!-- com.lifeco.data.Data_SurveyResponses_Test -->
+    </classes>
+  </test> <!-- CreateTag(failed) -->
+</suite> <!-- Failed suite [Create Tag Suite] -->

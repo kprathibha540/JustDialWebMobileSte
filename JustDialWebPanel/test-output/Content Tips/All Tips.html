@@ -1,0 +1,115 @@
+<html>
+<head>
+<title>TestNG:  All Tips</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>All Tips</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>5/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Aug 27 19:23:19 IST 2019</td>
+</tr>
+<tr><td>Total time:</td><td>440 seconds (440921 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.lifeco.tests.Content_Tips_AllTips_Test.VerifyAddTip()'><b>VerifyAddTip</b><br>Test class: com.lifeco.tests.Content_Tips_AllTips_Test<br>Parameters: tipcategory27Aug, Eat Carrot for immunity, girish|girish+1, Specific policyholders, ALL, Santhoshi Tag 1|Santhoshi Tag 2<br/>
+<a href="#Output-837693403" onClick='toggleBox("Output-837693403", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-837693403" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-837693403">
+Selection TimeOUt Cannot locate element with text: tipcategory27Aug
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-A96QGMO', ip: '192.168.2.236', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: unknown<br/>
+</div>
+</td>
+<td></td>
+<td>153</td>
+<td>com.lifeco.tests.Content_Tips_AllTips_Test@71d15f18</td></tr>
+<tr>
+<td title='com.lifeco.tests.Content_Tips_AllTips_Test.VerifyDeleteTip()'><b>VerifyDeleteTip</b><br>Test class: com.lifeco.tests.Content_Tips_AllTips_Test<br>Parameters: Honey luke warm water </td>
+<td></td>
+<td>49</td>
+<td>com.lifeco.tests.Content_Tips_AllTips_Test@71d15f18</td></tr>
+<tr>
+<td title='com.lifeco.tests.Content_Tips_AllTips_Test.VerifyDisableTip()'><b>VerifyDisableTip</b><br>Test class: com.lifeco.tests.Content_Tips_AllTips_Test<br>Parameters: Eat Carrot for immunity</td>
+<td></td>
+<td>57</td>
+<td>com.lifeco.tests.Content_Tips_AllTips_Test@71d15f18</td></tr>
+<tr>
+<td title='com.lifeco.tests.Content_Tips_AllTips_Test.VerifyEnableTip()'><b>VerifyEnableTip</b><br>Test class: com.lifeco.tests.Content_Tips_AllTips_Test<br>Parameters: Eat Carrot for immunity</td>
+<td></td>
+<td>58</td>
+<td>com.lifeco.tests.Content_Tips_AllTips_Test@71d15f18</td></tr>
+<tr>
+<td title='com.lifeco.tests.Content_Tips_AllTips_Test.navigateToAllTips()'><b>navigateToAllTips</b><br>Test class: com.lifeco.tests.Content_Tips_AllTips_Test</td>
+<td></td>
+<td>77</td>
+<td>com.lifeco.tests.Content_Tips_AllTips_Test@71d15f18</td></tr>
+</table><p>
+</body>
+</html>

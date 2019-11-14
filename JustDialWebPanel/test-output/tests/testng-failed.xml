@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="10" name="Failed suite [tests]">
+  <listeners>
+    <listener class-name="com.lifeco.generic.RetryListnerClass"/>
+  </listeners>
+  <test thread-count="5" verbose="10" name="contentTest(failed)">
+    <classes>
+      <class name="com.lifeco.tests.Content_LearningCenter_Configure_Test">
+        <methods>
+          <include name="verifyNewCategory"/>
+          <include name="intialize"/>
+          <include name="verifyAddArticalFeedback"/>
+          <include name="zpostcondition"/>
+          <include name="verifyAddArtical_URLLink"/>
+          <include name="verifyAddArtical_None"/>
+          <include name="openApplication"/>
+          <include name="verifyAddArtical_LinkToArtical"/>
+        </methods>
+      </class> <!-- com.lifeco.tests.Content_LearningCenter_Configure_Test -->
+      <class name="com.lifeco.tests.Content_ChallengesPage_Test">
+        <methods>
+          <include name="creatNewBeatMyBestChallenge" invocation-numbers="0"/>
+          <include name="creatNewCompetativeChallenge" invocation-numbers="0"/>
+          <include name="intialize"/>
+          <include name="createNewIndividualChallenge" invocation-numbers="0"/>
+          <include name="zpostcondition"/>
+          <include name="openApplication"/>
+          <include name="createNewCommunityChallenge" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.lifeco.tests.Content_ChallengesPage_Test -->
+    </classes>
+  </test> <!-- contentTest(failed) -->
+</suite> <!-- Failed suite [tests] -->

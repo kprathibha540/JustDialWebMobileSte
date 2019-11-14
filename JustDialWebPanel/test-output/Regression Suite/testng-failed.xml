@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Regression Suite]">
+  <listeners>
+    <listener class-name="com.lifeco.generic.RetryListnerClass"/>
+  </listeners>
+  <test thread-count="5" name="Highlights(failed)">
+    <classes>
+      <class name="com.lifeco.tests.Content_Highlights_Test">
+        <methods>
+          <include name="verifyEditHighlights"/>
+          <include name="intialize"/>
+          <include name="zpostcondition"/>
+          <include name="openApplication"/>
+        </methods>
+      </class> <!-- com.lifeco.tests.Content_Highlights_Test -->
+    </classes>
+  </test> <!-- Highlights(failed) -->
+  <test thread-count="5" name="Engagement Campaigns(failed)">
+    <classes>
+      <class name="com.lifeco.tests.Engagement_Campaigns_LogTest">
+        <methods>
+          <include name="intialize"/>
+          <include name="editCampaign" invocation-numbers="0"/>
+          <include name="zpostcondition"/>
+          <include name="openApplication"/>
+        </methods>
+      </class> <!-- com.lifeco.tests.Engagement_Campaigns_LogTest -->
+    </classes>
+  </test> <!-- Engagement Campaigns(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->

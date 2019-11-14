@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+ <listeners>
+        <listener class-name="com.lifeco.generic.RetryListnerClass"/>
+  </listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.lifeco.content.Content_EducationalLists_Test">
+      <methods>
+      		<include name="verifyDeleteCard"/>		
+      	</methods>
+      	</class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

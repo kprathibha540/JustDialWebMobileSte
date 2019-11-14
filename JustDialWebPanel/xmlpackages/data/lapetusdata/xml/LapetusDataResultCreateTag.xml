@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Create Tag Suite">
+	<listeners>
+        <listener class-name="com.lifeco.generic.RetryListnerClass"/>
+  	</listeners>
+  	<test name="LapetusFeedback CreateTag">
+    <classes>
+     <class name="com.lifeco.tests.Data_LapetusData_Results_Test">
+      	<methods>
+      		<include name="createTag"/>
+      	</methods>
+      </class>
+    </classes>
+  </test>
+</suite>

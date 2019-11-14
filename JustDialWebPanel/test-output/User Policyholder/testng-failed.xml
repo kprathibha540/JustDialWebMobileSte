@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [User Policyholder]">
+  <test thread-count="5" name="User Policyholder Enrolled(failed)">
+    <classes>
+      <class name="com.lifeco.tests.Users_Policyholder_EnrolledTest">
+        <methods>
+          <include name="createUser" invocation-numbers="0"/>
+          <include name="intialize"/>
+          <include name="zpostcondition"/>
+          <include name="openApplication"/>
+        </methods>
+      </class> <!-- com.lifeco.tests.Users_Policyholder_EnrolledTest -->
+    </classes>
+  </test> <!-- User Policyholder Enrolled(failed) -->
+  <test thread-count="5" name="Policyholder Invited (failed)">
+    <classes>
+      <class name="com.lifeco.tests.Users_Policyholder_InvitedTest">
+        <methods>
+          <include name="verifyAddPolicyHolder"/>
+          <include name="intialize"/>
+          <include name="zpostcondition"/>
+          <include name="openApplication"/>
+        </methods>
+      </class> <!-- com.lifeco.tests.Users_Policyholder_InvitedTest -->
+    </classes>
+  </test> <!-- Policyholder Invited (failed) -->
+</suite> <!-- Failed suite [User Policyholder] -->

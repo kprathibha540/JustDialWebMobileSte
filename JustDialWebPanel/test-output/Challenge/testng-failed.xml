@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Challenge]">
+  <listeners>
+    <listener class-name="com.lifeco.generic.RetryListnerClass"/>
+  </listeners>
+  <test thread-count="5" name="Content Challenge(failed)">
+    <groups>
+      <run>
+        <include name="content"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.lifeco.tests.Content_Interactive_Videos_Test">
+        <methods>
+          <include name="intialize"/>
+          <include name="verifyAddVideo"/>
+          <include name="zpostcondition"/>
+          <include name="openApplication"/>
+        </methods>
+      </class> <!-- com.lifeco.tests.Content_Interactive_Videos_Test -->
+      <class name="com.lifeco.tests.Content_Highlights_Test">
+        <methods>
+          <include name="verifyAddHighlights"/>
+          <include name="intialize"/>
+          <include name="zpostcondition"/>
+          <include name="openApplication"/>
+        </methods>
+      </class> <!-- com.lifeco.tests.Content_Highlights_Test -->
+      <class name="com.lifeco.tests.Content_Tips_AllTips_Test">
+        <methods>
+          <include name="VerifyAddTip"/>
+          <include name="intialize"/>
+          <include name="zpostcondition"/>
+          <include name="openApplication"/>
+        </methods>
+      </class> <!-- com.lifeco.tests.Content_Tips_AllTips_Test -->
+    </classes>
+  </test> <!-- Content Challenge(failed) -->
+</suite> <!-- Failed suite [Challenge] -->

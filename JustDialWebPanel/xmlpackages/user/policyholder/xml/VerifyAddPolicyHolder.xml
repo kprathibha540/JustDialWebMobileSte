@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="User Policyholder">
+ 	<test name="Policyholder Invited ">
+     	<classes>
+     		<class name="com.lifeco.tests.Users_Policyholder_InvitedTest">
+     			<methods>
+     				<include name="verifyAddPolicyHolder"/>
+     			</methods>
+     		</class>
+     	</classes>
+    </test>
+</suite> 
