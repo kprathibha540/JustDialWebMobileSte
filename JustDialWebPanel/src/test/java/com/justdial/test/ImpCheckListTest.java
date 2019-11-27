@@ -13,7 +13,7 @@ import utilities.GenericUtils;
 
 public class ImpCheckListTest extends BaseTest {
 
-	@Test(priority = 1, dataProvider = "MovieSearch", dataProviderClass = DataProviderInput.class , enabled = false)
+	@Test(priority = 1, dataProvider = "MovieSearch", dataProviderClass = DataProviderInput.class , enabled = true)
 	public void movieSearchCheckList23(String movieName) throws InterruptedException
 	{
 		logger=extent.createTest(" Movie Search  Check List  23   ");

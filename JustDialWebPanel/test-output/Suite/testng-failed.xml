@@ -1,56 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
-  <test name="Test  iPhone X(failed)" parallel="tests">
-    <parameter name="DeviceName" value="iPhone X"/>
-    <classes>
-      <class name="com.justdial.test.ImpCheckListTest">
-        <methods>
-          <include name="shopfrontProductSearchCheckList86" invocation-numbers="0"/>
-          <include name="intialize"/>
-          <include name="zpostcondition"/>
-          <include name="openApplication"/>
-        </methods>
-      </class> <!-- com.justdial.test.ImpCheckListTest -->
-    </classes>
-  </test> <!-- Test  iPhone X(failed) -->
-  <test name="Test iPhone 6/7/8(failed)" parallel="tests">
-    <parameter name="DeviceName" value="iPhone 6/7/8"/>
-    <classes>
-      <class name="com.justdial.test.ImpCheckListTest">
-        <methods>
-          <include name="shopfrontProductSearchCheckList86" invocation-numbers="0"/>
-          <include name="intialize"/>
-          <include name="zpostcondition"/>
-          <include name="openApplication"/>
-        </methods>
-      </class> <!-- com.justdial.test.ImpCheckListTest -->
-    </classes>
-  </test> <!-- Test iPhone 6/7/8(failed) -->
-  <test name="Test Galaxy S5(failed)" parallel="tests">
-    <parameter name="DeviceName" value="Galaxy S5"/>
-    <classes>
-      <class name="com.justdial.test.ImpCheckListTest">
-        <methods>
-          <include name="shopfrontProductSearchCheckList86" invocation-numbers="0"/>
-          <include name="intialize"/>
-          <include name="zpostcondition"/>
-          <include name="openApplication"/>
-        </methods>
-      </class> <!-- com.justdial.test.ImpCheckListTest -->
-    </classes>
-  </test> <!-- Test Galaxy S5(failed) -->
-  <test name="Test(failed)" parallel="tests">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
     <parameter name="DeviceName" value="Pixel 2"/>
     <classes>
-      <class name="com.justdial.test.ImpCheckListTest">
+      <class name="com.prathibha.justdialtest.Autosuggdisplay">
         <methods>
-          <include name="shopfrontProductSearchCheckList86" invocation-numbers="0"/>
           <include name="intialize"/>
           <include name="zpostcondition"/>
           <include name="openApplication"/>
+          <include name="singleBoxCompanySearchwithTajHotel_9"/>
         </methods>
-      </class> <!-- com.justdial.test.ImpCheckListTest -->
+      </class> <!-- com.prathibha.justdialtest.Autosuggdisplay -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

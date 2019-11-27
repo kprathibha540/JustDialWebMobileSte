@@ -19,7 +19,7 @@ public class HeadlessBrowser {
 		        options.addArguments("disable-infobars");
 		        options.addArguments("--ignore-certificate-errors");
 		        options.addArguments("--disable -extensions");
-		        
+		        options.addArguments("--headless");
 		        DesiredCapabilities capabilities = DesiredCapabilities.chrome();
 		        capabilities.setJavascriptEnabled(true);
 

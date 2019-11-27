@@ -36,7 +36,7 @@ public class ChromeBrowser {
 
     public WebDriver getChromeDriver(ChromeOptions opt) {
    
-            System.setProperty("webdriver.chrome.driver", "C:\\Users\\blrsoft\\Downloads\\ui-master\\JustDailWebAuto\\DriverExecutable\\chromedriver.exe");
+            System.setProperty("webdriver.chrome.driver", "C:\\Users\\blrsoft\\git\\JustDialWebMobileSte\\JustDialWebPanel\\DriverExecutable\\chromedriver.exe");
             return new ChromeDriver(opt);
     }
 }

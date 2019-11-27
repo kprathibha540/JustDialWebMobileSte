@@ -15,9 +15,11 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Listeners;
+import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 
 import com.aventstack.extentreports.ExtentReports;
@@ -84,7 +86,7 @@ public  class BaseTest
 		public void openApplication(String deviceName) throws Exception
 		{ 
 			
-			logs.info(" Browser Name ="+browser.getProperty("brw")+"  URL ="+browser.getProperty("url"));
+			logs.info(" Browser Name ="+browser.getProperty("brw")+"  URL ="+browser.getProperty("url")+ " Device Name "+deviceName);
 			launchBrowser(browser.getProperty("brw"), browser.getProperty("url"), deviceName);
 			
 			 
@@ -143,6 +145,7 @@ public  class BaseTest
 
 	                case "Firefox":
 	                	logs.info(" Inside Mozilla Switch");
+	                	
 	                    FirefoxBrowser firefoxBrowser = new FirefoxBrowser();
 	                    //logs.info(" Return Value = "+firefoxBrowser.getFirefoxDriver(firefoxBrowser.getFirefoxOptions()));
 	                    return firefoxBrowser.getFirefoxDriver(firefoxBrowser.getFirefoxOptions());

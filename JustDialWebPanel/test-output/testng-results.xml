@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="84" total="88" passed="4">
+<testng-results skipped="0" failed="0" ignored="21" total="22" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="106456" started-at="2019-11-14T14:08:40Z" finished-at="2019-11-14T14:10:26Z">
+  <suite name="Suite" duration-ms="13860" started-at="2019-11-27T06:06:32Z" finished-at="2019-11-27T06:06:46Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="30143" started-at="2019-11-14T14:08:40Z" finished-at="2019-11-14T14:09:10Z">
-      <class name="com.justdial.test.ImpCheckListTest">
-        <test-method status="PASS" signature="intialize()[pri:0, instance:com.justdial.test.ImpCheckListTest@167fdd33]" name="intialize" is-config="true" duration-ms="171" started-at="2019-11-14T19:38:40Z" finished-at="2019-11-14T19:38:40Z">
+    <test name="Test" duration-ms="13860" started-at="2019-11-27T06:06:32Z" finished-at="2019-11-27T06:06:46Z">
+      <class name="com.prathibha.justdialtest.Autosuggdisplay">
+        <test-method status="PASS" signature="intialize()[pri:0, instance:com.prathibha.justdialtest.Autosuggdisplay@130f889]" name="intialize" is-config="true" duration-ms="146" started-at="2019-11-27T06:06:32Z" finished-at="2019-11-27T06:06:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- intialize -->
-        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:com.justdial.test.ImpCheckListTest@167fdd33]" name="openApplication" is-config="true" duration-ms="9959" started-at="2019-11-14T19:38:40Z" finished-at="2019-11-14T19:38:50Z">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:com.prathibha.justdialtest.Autosuggdisplay@130f889]" name="openApplication" is-config="true" duration-ms="9074" started-at="2019-11-27T06:06:32Z" finished-at="2019-11-27T06:06:41Z">
           <params>
             <param index="0">
               <value>
@@ -22,152 +22,22 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openApplication -->
-        <test-method status="PASS" signature="shopfrontProductSearchCheckList86(java.lang.String)[pri:15, instance:com.justdial.test.ImpCheckListTest@167fdd33]" name="shopfrontProductSearchCheckList86" duration-ms="13400" started-at="2019-11-14T19:38:50Z" data-provider="ShopFrontProductBrand" finished-at="2019-11-14T19:39:04Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Dell|Laptops]]>
-              </value>
-            </param>
-          </params>
+        <test-method status="PASS" signature="singleBoxCompanySearchwithTajHotel_9()[pri:1, instance:com.prathibha.justdialtest.Autosuggdisplay@130f889]" name="singleBoxCompanySearchwithTajHotel_9" duration-ms="1247" started-at="2019-11-27T06:06:41Z" finished-at="2019-11-27T06:06:42Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- shopfrontProductSearchCheckList86 -->
-        <test-method status="PASS" signature="zpostcondition(org.testng.ITestResult)[pri:0, instance:com.justdial.test.ImpCheckListTest@167fdd33]" name="zpostcondition" is-config="true" duration-ms="6373" started-at="2019-11-14T19:39:04Z" finished-at="2019-11-14T19:39:10Z">
+        </test-method> <!-- singleBoxCompanySearchwithTajHotel_9 -->
+        <test-method status="PASS" signature="zpostcondition(org.testng.ITestResult)[pri:0, instance:com.prathibha.justdialtest.Autosuggdisplay@130f889]" name="zpostcondition" is-config="true" duration-ms="3371" started-at="2019-11-27T06:06:42Z" finished-at="2019-11-27T06:06:46Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=shopfrontProductSearchCheckList86 status=SUCCESS method=ImpCheckListTest.shopfrontProductSearchCheckList86(java.lang.String)[pri:15, instance:com.justdial.test.ImpCheckListTest@167fdd33] output={null}]]]>
+                <![CDATA[[TestResult name=singleBoxCompanySearchwithTajHotel_9 status=SUCCESS method=Autosuggdisplay.singleBoxCompanySearchwithTajHotel_9()[pri:1, instance:com.prathibha.justdialtest.Autosuggdisplay@130f889] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- zpostcondition -->
-      </class> <!-- com.justdial.test.ImpCheckListTest -->
+      </class> <!-- com.prathibha.justdialtest.Autosuggdisplay -->
     </test> <!-- Test -->
-    <test name="Test  iPhone X" duration-ms="28563" started-at="2019-11-14T14:09:10Z" finished-at="2019-11-14T14:09:39Z">
-      <class name="com.justdial.test.ImpCheckListTest">
-        <test-method status="PASS" signature="intialize()[pri:0, instance:com.justdial.test.ImpCheckListTest@34c4973]" name="intialize" is-config="true" duration-ms="1" started-at="2019-11-14T19:39:10Z" finished-at="2019-11-14T19:39:10Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- intialize -->
-        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:com.justdial.test.ImpCheckListTest@34c4973]" name="openApplication" is-config="true" duration-ms="10356" started-at="2019-11-14T19:39:10Z" finished-at="2019-11-14T19:39:20Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[iPhone X]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- openApplication -->
-        <test-method status="PASS" signature="shopfrontProductSearchCheckList86(java.lang.String)[pri:15, instance:com.justdial.test.ImpCheckListTest@34c4973]" name="shopfrontProductSearchCheckList86" duration-ms="12616" started-at="2019-11-14T19:39:20Z" data-provider="ShopFrontProductBrand" finished-at="2019-11-14T19:39:33Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Dell|Laptops]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- shopfrontProductSearchCheckList86 -->
-        <test-method status="PASS" signature="zpostcondition(org.testng.ITestResult)[pri:0, instance:com.justdial.test.ImpCheckListTest@34c4973]" name="zpostcondition" is-config="true" duration-ms="5576" started-at="2019-11-14T19:39:33Z" finished-at="2019-11-14T19:39:39Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=shopfrontProductSearchCheckList86 status=SUCCESS method=ImpCheckListTest.shopfrontProductSearchCheckList86(java.lang.String)[pri:15, instance:com.justdial.test.ImpCheckListTest@34c4973] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- zpostcondition -->
-      </class> <!-- com.justdial.test.ImpCheckListTest -->
-    </test> <!-- Test  iPhone X -->
-    <test name="Test Galaxy S5" duration-ms="23166" started-at="2019-11-14T14:09:39Z" finished-at="2019-11-14T14:10:02Z">
-      <class name="com.justdial.test.ImpCheckListTest">
-        <test-method status="PASS" signature="intialize()[pri:0, instance:com.justdial.test.ImpCheckListTest@2f943d71]" name="intialize" is-config="true" duration-ms="1" started-at="2019-11-14T19:39:39Z" finished-at="2019-11-14T19:39:39Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- intialize -->
-        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:com.justdial.test.ImpCheckListTest@2f943d71]" name="openApplication" is-config="true" duration-ms="6461" started-at="2019-11-14T19:39:39Z" finished-at="2019-11-14T19:39:45Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Galaxy S5]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- openApplication -->
-        <test-method status="PASS" signature="shopfrontProductSearchCheckList86(java.lang.String)[pri:15, instance:com.justdial.test.ImpCheckListTest@2f943d71]" name="shopfrontProductSearchCheckList86" duration-ms="11767" started-at="2019-11-14T19:39:45Z" data-provider="ShopFrontProductBrand" finished-at="2019-11-14T19:39:57Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Dell|Laptops]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- shopfrontProductSearchCheckList86 -->
-        <test-method status="PASS" signature="zpostcondition(org.testng.ITestResult)[pri:0, instance:com.justdial.test.ImpCheckListTest@2f943d71]" name="zpostcondition" is-config="true" duration-ms="4923" started-at="2019-11-14T19:39:57Z" finished-at="2019-11-14T19:40:02Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=shopfrontProductSearchCheckList86 status=SUCCESS method=ImpCheckListTest.shopfrontProductSearchCheckList86(java.lang.String)[pri:15, instance:com.justdial.test.ImpCheckListTest@2f943d71] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- zpostcondition -->
-      </class> <!-- com.justdial.test.ImpCheckListTest -->
-    </test> <!-- Test Galaxy S5 -->
-    <test name="Test iPhone 6/7/8" duration-ms="24554" started-at="2019-11-14T14:10:02Z" finished-at="2019-11-14T14:10:26Z">
-      <class name="com.justdial.test.ImpCheckListTest">
-        <test-method status="PASS" signature="intialize()[pri:0, instance:com.justdial.test.ImpCheckListTest@7d70d1b1]" name="intialize" is-config="true" duration-ms="1" started-at="2019-11-14T19:40:02Z" finished-at="2019-11-14T19:40:02Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- intialize -->
-        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:com.justdial.test.ImpCheckListTest@7d70d1b1]" name="openApplication" is-config="true" duration-ms="6026" started-at="2019-11-14T19:40:02Z" finished-at="2019-11-14T19:40:08Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[iPhone 6/7/8]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- openApplication -->
-        <test-method status="PASS" signature="shopfrontProductSearchCheckList86(java.lang.String)[pri:15, instance:com.justdial.test.ImpCheckListTest@7d70d1b1]" name="shopfrontProductSearchCheckList86" duration-ms="13318" started-at="2019-11-14T19:40:08Z" data-provider="ShopFrontProductBrand" finished-at="2019-11-14T19:40:21Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Dell|Laptops]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- shopfrontProductSearchCheckList86 -->
-        <test-method status="PASS" signature="zpostcondition(org.testng.ITestResult)[pri:0, instance:com.justdial.test.ImpCheckListTest@7d70d1b1]" name="zpostcondition" is-config="true" duration-ms="5201" started-at="2019-11-14T19:40:21Z" finished-at="2019-11-14T19:40:26Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=shopfrontProductSearchCheckList86 status=SUCCESS method=ImpCheckListTest.shopfrontProductSearchCheckList86(java.lang.String)[pri:15, instance:com.justdial.test.ImpCheckListTest@7d70d1b1] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- zpostcondition -->
-      </class> <!-- com.justdial.test.ImpCheckListTest -->
-    </test> <!-- Test iPhone 6/7/8 -->
   </suite> <!-- Suite -->
 </testng-results>
